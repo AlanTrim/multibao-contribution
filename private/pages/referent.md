@@ -1,18 +1,12 @@
-# Trouver un référent
+# Trouver la bonne ressource
 
-Dans ce prototype, une personne morale ou physique peut se positionner comme référent sur un territoire en remplissant un formulaire.
+Dans ce prototype en cours de construction, nous testons une de nos solutions qui répond à la problématique :
 
-Se positionner comme référent, ou positionner une association comme référent, c'est la possibilité d'être contacté dans le cas d'une demande particulière.
+"Si je n'y connais pas grand chose ou ne connaît pas la bonne personne à qui demande, bonne chance pour trouver la bonne ressource"
 
-Comme test, nous proposons un classement couleur par niveau de licence du contenu fourni (ex: si une association, la licence du site web de l'association ou du site sous lesquels les ressources sont fournies). Nous soumettrons cette hypothèse lors d'une prochaine série d'interviews.
+Seuls 10% d'entre vous affirment utiliser un moteur de recherche pour trouver une ressource. 90% d'entre vous ... demandent. 
 
-**Exemple**
+Le système que nous testons en ce moment est le suivant : 
 
-**Jean Dupont**
-* __Thématique:__ concertation territoriale
-* __Réseaux:__ institut concertation, pôle sup...
-* __Localisé:__ rue Jean, Montpellier
-* __Site:__ http://dupontoudupond.com
-* __Tel:__ 06 78 95 15 48
-* __Mail:__ jean.dupont@dupontoudupond.com
-* __Licence:__ Creative Commons BY-SA
+Vous indiquez à multiBàO que vous habitez Grenoble, que vous vous intéressez à la gouvernance participative, vous n'y connaissez rien et auriez une question à poser. multiBàO vous indiquerait immédiatement que Romain Vignes, spécialisé dans cette thématique, agissant à l'Université du Nous, habitant Chambery, accepte de répondre gratuitement à une telle question / peut proposer un accompagnement / accepte d'être rencontré en live - voici son mail ou son numéro de portable. 
+En phase de test à échelle humaine: déjà plus de 80 participants ont joué le jeu! Prochain test à Louvain-La-Neuve (BE), avec 60 personnes. 
