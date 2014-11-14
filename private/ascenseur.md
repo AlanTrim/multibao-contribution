@@ -6,7 +6,8 @@
 * ice-breaker : favorise le rapprochement **(2)**
 * favorise une écoute accrue **(2)**
 
-![Instagram](http://photos-d.ak.instagram.com/hphotos-ak-xpf1/1391419_539301739538147_2057480812_n.jpg)
+![Com](http://photos-e.ak.instagram.com/hphotos-ak-xpf1/10802711_402298783260556_765599718_n.jpg) 
+**(2)** Lors d'un cours de médiation au Pôle Sup 
 
 ## Procédure 
 
@@ -31,6 +32,9 @@ Lors de cet évènement, nous étions 6 facilitateurs à tenter de trouver une m
 1. 4 mn (moins si possible) en cercle, assis ; le facilitateur ouvre en donnant les règles de fonctionnement et de dialogue, présente le déroulé de la méthode puis introduit l'expert
 2. 4 mn: (moins si possible) en cercle, assis ; l'expert présente les enjeux, la problématique, il propose la question qui est présentée écrite sur une grande feuille et exposée.
 3. 6 mn : 3x2 mn : ascenseur par 2; demander de se mettre par 2 debout (reculez vos chaises contre les murs): partagez une idée, que vous avez eu ou entendu ou vu ou expérimenté qui pourrait, même très partiellement, être une solution ou répondre à la problématique. Règle : quand l'un parle 1 mn, l'autre écoute 1mn, on change (cloche). On recommence
+
+![Instagram](http://photos-d.ak.instagram.com/hphotos-ak-xpf1/1391419_539301739538147_2057480812_n.jpg)
+
 4. 15 mn : demander à former 2 cercles concentriques et qu'ils se distribuent les post-its, cercle extérieur uniquement (une dizaine de chaque couleur par personne). C'est la [technique du cercle excentrique](http://www.multibao.org/fiche/cercle_excentrique). Indiquer le code couleur.
 
 ![Cercle excentrique](http://photos-b.ak.instagram.com/hphotos-ak-xap1/10785075_874013432638417_271549504_n.jpg)
