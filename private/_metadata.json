@@ -95,6 +95,13 @@
    "slug": "ascenseur",
    "title": "Ascenseur",
    "tag": "Intermédiaire"
+  },
+  
+  "15": {
+   "updated": "04/11/2014",
+   "slug": "accelerateur_de_projets",
+   "title": "Accélérateur de projets",
+   "tag": "Intermédiaire"
   }
   
 }
