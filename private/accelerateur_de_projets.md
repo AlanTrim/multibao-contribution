@@ -9,7 +9,7 @@ L'accélerateur de projet est une méthode faisant intervenir des pairs pour res
 ## Histoire
 Cette méthode dérive de l'entrainement mental créé pendant la guerre 39-45 par Joffre Dumazedier et développé ensuite par le mouvement d'éducation populaire "peuple et culture".
 
-Elle est utilisée un peu différemment dans le cadre de l'analyse de pratique professionnelle. 
+Elle est utilisée un peu différemment dans le cadre de l'analyse de pratique professionnelle. **(1)**
 
 ## Procédure
 
@@ -21,7 +21,7 @@ Trois rôles devraient être assurés :
 * un animateur - gardien de la méthode : présente rapidement la méthodo, rappelle les règles, assure le bon déroulement.
 * un secrétaire : celui qui prend les notes (fonction partagée sur Etherpad)
 
-### Méthode par étape
+### Méthode par étape **(1)**
 
 #### Étape 0 : préparation (5 min.)
 
@@ -58,12 +58,12 @@ Après ce temps d'écriture , la personne qui a exposé sa situation présente s
 Pour fermer correctement la rencontre, il convient de faire un retour sur ce qui s’est passé. La personne qui a demandé de l’aide peut exprimer son vécu ; le groupe peut évaluer sa façon de procéder et, au besoin, y apporter des correctifs pour la prochaine rencontre. Il est conseillé de prendre quelques minutes pour noter individuellement ce que chacun retient de cette rencontre
 
 ### Conditions de réussite
-Pour assurer le succès d’une telle démarche, l'animateur rappelle les règles. Les participants apportent leur aide dans un esprit bienveillant et sans "juger". Cet exercice requiert de la part des utilisateur une attention aux autres. Ne pas faire d'intervention trop longue.
+Pour assurer le succès d’une telle démarche, l'animateur rappelle les règles. Les participants apportent leur aide dans un esprit bienveillant et sans "juger". Cet exercice requiert de la part des utilisateur une attention aux autres. Ne pas faire d'intervention trop longue.**(1)**
 
 ## Avantages et limites
 
-* Très efficace quand la situation et la demande sont clairement posées, que le public est hétérogène.
-* Avant l'étape 5 "le temps d'écoute", il peut être intéressant pour l’animateur de représenter aux participants le meilleur moyen d'aider le demandant : les objectifs sont de remettre de la complexité, de l'hétérogénéité, penser en terme de processus, de situation évolutive, sortir du binaire et accepter le ternaire « et ceci et cela », penser le contexte global, ne pas oublier la genèse de la situation, penser aux tabous ou aux non-dits, repérer les contradictions. Pour enrichir le problème et élargir sa vision.
+* Très efficace quand la situation et la demande sont clairement posées, que le public est hétérogène.**(1)**
+* Avant l'étape 5 "le temps d'écoute", il peut être intéressant pour l’animateur de représenter aux participants le meilleur moyen d'aider le demandant : les objectifs sont de remettre de la complexité, de l'hétérogénéité, penser en terme de processus, de situation évolutive, sortir du binaire et accepter le ternaire « et ceci et cela », penser le contexte global, ne pas oublier la genèse de la situation, penser aux tabous ou aux non-dits, repérer les contradictions. Pour enrichir le problème et élargir sa vision.**(1)**
 
 ## Sources
 
