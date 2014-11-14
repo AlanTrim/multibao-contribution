@@ -1,35 +1,42 @@
-# Présentation
+# une multi boîte à outils 
 
-**multi BàO** (multi boîtes à outils) est une plateforme vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + contact pour vous aider) pour coopérer. 
+bienvenue sur multi bào 0.1, une plateforme en construction vous permettant de trouver et de disposer de la bonne ressource pour coopérer. 
 
-Cette plateforme se construit en réseau : toutes et tous sont invités à participer. Vous êtes sur la version 1.1 de la plateforme; à ce jour nous construisons la version 1.2. Dans ce projet, nous prenons le temps de nous rencontrer, de tester les hypothèses, d'apprendre, de mettre en commun et de respecter chaque contribution, aussi petite soit-elle. C'est le souhait de tous les participant(e)s à ce jour. 
+## Pourquoi ? 
 
-## Zoom
-Entre 32 animateurs/coordinateurs de réseaux de trois communautés de pratique différentes (animateurs/coordo de réseaux associatifs; chargés de concertation; équipes de développement agile) de France et de Belgique, autrement dit des utilisateurs d'outils/méthodes participatives, nous avons défini des problématiques/besoins qui expliquent la base de la création d'une multi boîte à outils. 
-- "des fiches outils/méthodes, c'est bien beau, mais elles ne sont la plupart du temps même pas connectées avec les retours d'expériences eux aussi éparpillés sur le web. 
-On ne peut pas non plus facilement les réutiliser, beaucoup ne sont pas en licences ouvertes (Creative Commons). Et même si elles sont publiées en licences ouvertes autorisant la modification: il faut faire des copier/coller depuis les sites, il y a des pdf, des mises en pages graphiques compliquées. Même quand des fiches sont publiées sous une licence autorisant la réutilisation et modification, elles ne sont que rarement exportables sous des formats modifiables (ex: word/openwriter/code source). Et si on veut les importer sur notre site, confectionner nous même nos boîtes à outils, nous sommes souvent bloqués car le code source de la page n'est presque jamais disponible ou non utilisable. Bref le bordel aussi bien pour trouver des fiches que des les réutiliser!)"
-- "Si on n'y connaît pas grand chose, difficile de trouver la bonne ressource là dedans: il n'existe pas de trame"
-- "Si on n'y connaît pas grand chose et qu'on ne connaît personne qui saurait nous dire, la démarche devient encore plus complexe."
+*vu que nous ne pouvons pas parler à la place des autres, nous l'avons demandé à 50 coordinateurs/animateurs de réseaux, chargés de concertation,... qui nous ont expliqué leurs problématiques*
 
-## Par son format, cette plateforme est unique 
-- toutes les ressources sont publiées en licence [Creative Commons](http://creativecommons.fr/licences/les-6-licences/). Une équipe se charge de demander la mise à disposition de ressources sous licences ouvertes aux auteurs lorsque cela n'est pas déjà fait. 100% réussite à ce jour. 
-- le format permet une exportation de toutes les ressources en format openwriter, pdf, html. 
-- la connexion à venir avec une [API](http://fr.wikipedia.org/wiki/Interface_de_programmation) vous permettra d'exporter toutes les fiches que vous le souhaitez en quelques clics, dans le format souhaité
-- le code source de multiBàO est sous licence [MIT](http://fr.wikipedia.org/wiki/Licence_MIT), une licence libre indiquant que toute la structure du site, des plus petites applications jusqu'à l'intégralité des fiches, est exportable/importable/réutilisable. Le code est disponible [ici](https://github.com/scopyleft/multibao-contribution)
-- le format utilisé pour l'écriture des fiches est le language Markdown, un language dix fois plus simple que le word, avec une mise en page automatique. Pour les contributeurs/euses nous organisons une formation de ... 5mn pour vous initier à ce language. 
+* dur de retrouver des fiches outils / méthodes / retours d'expériences de qualité, surtout quand tout est éparpillé sur le web ou non visible. Du coup on repart souvent de "zéro"
+* qu'il est difficile de réutiliser un contenu lorsqu'il est en copyright, ou lorsqu'il est publié sous un pdf avec pleins de couleurs ... 
+* difficile de trouver la bonne méthode, approche, lorsqu'on ne sait pas (et qu'on ne connaît pas la personne a qui demander)
 
-## On interconnecte aussi/surtout vers des humains
-- suite à des tests que nous réalisons dans le cadre des rencontres du Groupe de Recherche d'Appui au Collectif (BELGIQUE) et de la Maison des Biens Communs éphémère de Montpellier (FRANCE), nous testons différentes manière de créer une carte des référents locaux pour interconnecter les fiches ressources à des référents qui pourront répondre aux questions
-- les participant(e)s du projet sont tous en lien direct ou indirect, c'est avant tout un réseau
+## D'où une multi Boîte à outils
 
-## On ne part pas de rien! 
-Cette plateforme fait suite à la [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) regroupant plus de 100 fiches méthodes/outils participatifs, compilées entre près de 30 réseaux par un collectif de bénévoles (via [l'association du centre des pratiques de la coopération](http://cpcoop.fr) et l'[Université de Montpellier](https://www.univ-montp2.fr)), l'intégralité sous licences ouvertes.
+Après notre longue série d'interviews, nous avons débuté à proposer et tester des solutions numériques, construites grâce à une équipe de développement agile. 
 
-Un collectif non formel, bénévole, toujours en réseau, s'est créé autour du projet. A ce jour nous avons compilé plus de 200 fiches méthodes/outils, et reçu une subvention de l'Europe pour nous soutenir dans le projet. 
+#### dur de trouver des fiches outils / méthodes / retours d'expérience 
 
-Accompagné par une [équipe de développement agile](http://scopyleft.fr), a débutée la programmation de la plateforme. 
+dans la base de données brute nous avons compilés [plus de 200 fiches autour des démarches participatives](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa), 100% réutilisables, une des plus grosses d'Europe
 
-## Vous voulez participer ? En savoir plus ? Une demande ?
+#### il est difficile de réutiliser ce qu'on trouve sur le web
+
+* les ressources sont toutes publiées sous licence Creative Commons
+* d'ici 2 mois, un double clic sur l'écran vous permettra d'exporter la fiche dans tous les formats imagineables : word, pdf, html,...
+* d'ici 2 mois, vous pourrez choisir le graphisme de la multibào tel que vous le souhaitez, et l'exporter comme vous le souhaitez
+* ET SURTOUT, d'ici quelques mois, vous pourrez interconnecter les fiches avec vos sites. Une même fiche pourra être partagée entre plusieurs sites webs, chaque site web pouvant présenté la même fiche mais avec un graphisme différent. Cette technologie sera disponible gratuitement d'ici 6 mois. Vous pourrez alors compiler vos propres boîtes à outils
+
+#### si on n'y connaît rien (ni la bonne personne), bonne chance pour trouver la bonne ressource directement 
+
+* lorsque nous vous demandons comment vous faites pour trouver une ressource, seuls 10% d'entre vous répondent "j'utilise un moteur de recherche". C'est pourquoi pour le développement nous vous ne demandons pas la solution, mais les problèmes. 
+* nous testons en ce moment en France et Belgique un système de carte pour l'instant non fonctionnel en version numérique. Vous habitez Montpellier, vous recherchez des informations sur l'animation de réseau, multiBàO vous indique la personne la plus proche de chez vous qui accepte de répondre gratuitement à une question sur la thématique, qui peut vous accompagner ou qui sait vers qui vous rediriger. Cette technologie sera co-construite par un partenariat franco-belge en cours d'élaboration. 
+
+## Mais aussi
+
+Des expérimentations à Montpellier (Maison des Biens Communs éphémère, amphithéâtre de l'Université de Montpellier), Bruxelles, Louvain-La-Neuve (GRAC...)...
+
+## Qui est derrière ? 
+
+On réalise en ce moment un blog pour vous le présenter, encore un peu de patience ! 
 
 * Liste de discussion multiBàO : [participer, se tenir informé(e)](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
 * Un des facilitateurs du projet (papotte avec tout le monde, redirige vers la bonne personne pour contribuer)
