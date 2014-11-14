@@ -7,7 +7,8 @@
 * favorise une écoute accrue **(2)**
 
 ![Com](http://photos-e.ak.instagram.com/hphotos-ak-xpf1/10802711_402298783260556_765599718_n.jpg) 
-**(2)** Lors d'un cours de médiation au Pôle Sup 
+
+*(2) Lors d'un cours de médiation au Pôle Sup*
 
 ## Procédure 
 
