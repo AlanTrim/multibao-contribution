@@ -3,7 +3,7 @@
     "updated": "22/09/2014",
     "slug": "elevator_pitch",
     "title": "Elevator pitch",
-    "tag": "Avancé"
+    "tag": "Intermédiaire"
   },
 
   "2": {
@@ -88,5 +88,13 @@
    "slug": "world_cafe_expert",
    "title": "World café",
    "tag": "Expert"
+  },
+  
+  "14": {
+   "updated": "03/11/2014",
+   "slug": "ascenseur",
+   "title": "Ascenseur",
+   "tag": "Intermédiaire"
   }
+  
 }
