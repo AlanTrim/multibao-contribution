@@ -4,9 +4,9 @@ bienvenue sur multi bào, une plateforme en construction vous permettant de trou
 
 ## Pourquoi ? 
 
-*vu que nous ne pouvons pas parler à la place des autres, nous avons demandé à 50 coordinateurs/animateurs de réseaux, chargés de concertation,... de nous expliquer leurs problématiques relatifs aux fiches outils/méthodes/retours d'expérience qu'on trouve sur le web*
+*vu que nous ne pouvons pas parler à la place des autres, nous avons demandé à 50 coordinateurs/animateurs de réseaux, chargés de concertation,... de nous expliquer leurs problématiques*
 
-* dur de retrouver des fiches outils / méthodes / retours d'expériences de qualité, surtout quand tout est éparpillé sur le web ou non visible. Du coup on repart souvent de "zéro", et il est rare que des experts d'une thématique se réunissent pour mutualiser leurs connnaissances, les tenir à jour...
+* dur de retrouver des fiches outils / méthodes / retours d'expériences de qualité, surtout quand tout est éparpillé sur le web ou non visible. Du coup on repart souvent de "zéro", et il est rare que des experts d'une thématique se réunissent pour mutualiser leurs connnaissances, les tiennent à jour...
 * qu'il est difficile de réutiliser un contenu lorsqu'il est en copyright, ou lorsqu'il est publié sous un pdf avec pleins de couleurs ... 
 * difficile de trouver la bonne méthode, approche, lorsqu'on ne sait pas (et qu'on ne connaît pas la personne a qui demander)
 
