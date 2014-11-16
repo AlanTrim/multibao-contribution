@@ -21,9 +21,9 @@ Trois rôles devraient être assurés :
 * un animateur - gardien de la méthode : présente rapidement la méthodo, rappelle les règles, assure le bon déroulement.
 * un secrétaire : celui qui prend les notes (fonction partagée sur Etherpad)
 
-### Méthode par étape **(1)**
+## Méthode par étapes **(1)**
 
-#### Étape 0 : préparation (5 min.)
+### Étape 0 : préparation (5 min.)
 
 Au début de la rencontre, le groupe devrait choisir :
 
@@ -32,29 +32,29 @@ Au début de la rencontre, le groupe devrait choisir :
 * une personne qui prendra les notes (ou fonction partagée sur pad)
 
 
-####  Étape 1 : exposé de la problématique ou de la situation (5 min)
+###  Étape 1 : exposé de la problématique ou de la situation (5 min)
 
 La personne qui a accepté de soumettre son problème expose le plus clairement possible la situation et son contexte. Elle exprime ensuite la façon dont elle définit le problème. Les autres membres de l’équipe écoutent.
 
-#### Étape 2 : clarification de la problématique (5 min)
+### Étape 2 : clarification de la problématique (5 min)
 
 Les membres du groupe formulent les questions pour bien cerner la situation. Ils doivent, à cette étape, s’en tenir à des questions d’information factuelle (meilleure compréhension du contexte par ex). La personne qui a exposé sa situation apporte les précisions ensuite.
 
-#### Étape 3 : contrat - reformulation de la question (1 min)
+### Étape 3 : contrat - reformulation de la question (1 min)
 
 La personne qui a exposé sa situation précise clairement ce qu’elle attend des autres membres du groupe. (je voudrais que le groupe m'aide à ....)
 
-#### Étape 4 : réactions, commentaires, suggestions (20- 30 min)
+### Étape 4 : réactions, commentaires, suggestions (20- 30 min)
 
 Les autres membres du groupe interviennent : donnent leurs impressions, réactions, interprétations... Ils proposent une façon de voir autrement la situation. Ils peuvent faire des suggestions pratiques ou donner des conseils. La personne qui a exposé sa situation écoute et s'engage à ne pas intervenir. Elle a tout intérêt à noter par écrit ce qui lui paraît pertinent de retenir.
 
-#### Étape 5 : Synthèse et plan d’action (5–10 min)
+### Étape 5 : Synthèse et plan d’action (5–10 min)
 
 La personne qui a exposé sa situation prend quelques instants pour finaliser en mini plan d'action des remarques exprimées par les membres du groupe (une synthèse personnelle de ce qu’elle retient). Pendant ce temps , les autres participants notent les idées et remarques qui peuvent leur être utiles dans leurs projets (idées transversales etc)
 
 Après ce temps d'écriture , la personne qui a exposé sa situation présente son plan d'action, indique la façon dont elle entend donner des suites. Les autres membres du groupe n’ont pas à discuter des choix de la personne ou de son plan d’action; ils se comportent plutôt comme des témoins du cheminement de cette personne; ils peuvent exprimer leur soutien et leur encouragement.
 
-#### Étape 6 : Évaluation et intégration des apprentissages, vécu (5 -10 min)
+### Étape 6 : Évaluation et intégration des apprentissages, vécu (5 -10 min)
 Pour fermer correctement la rencontre, il convient de faire un retour sur ce qui s’est passé. La personne qui a demandé de l’aide peut exprimer son vécu ; le groupe peut évaluer sa façon de procéder et, au besoin, y apporter des correctifs pour la prochaine rencontre. Il est conseillé de prendre quelques minutes pour noter individuellement ce que chacun retient de cette rencontre
 
 ### Conditions de réussite
