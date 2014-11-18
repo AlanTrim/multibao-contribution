@@ -1,6 +1,9 @@
 # Matrice CAPE  
 ## En une phrase  
 Dans des projets où de nombreux acteurs sont présents, la matrice CAPE sert à représenter les jeux d'acteurs pour comprendre comment accompagner une démarche de concertation. 
+
+![MatriceCAPE](http://photos-f.ak.instagram.com/hphotos-ak-xap1/929261_750485278374685_868889496_n.jpg)
+
 ## A quoi ça sert ?
 
 Accompagner une démarche de concertation
