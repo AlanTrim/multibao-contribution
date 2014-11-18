@@ -24,7 +24,7 @@ Même s'il lui ressemble, le mot ne viendrait pas du chinookan «Potlash», car 
 
 Contacter les invités pour les informer de la rencontre, mettre en place une communication pour rappeler l'événement, choisir un thème. Demander une participation à chacun (aide à l'organisation, nourriture, nettoyage, pret de locaux),
 
-![potluck](http://www.atlantamagazine.com/wp-content/uploads/sites/12/2012/07/serenbe.potluck.jpeg)
+![potluck](http://www.atlantamagazine.com/wp-content/uploads/sites/12/2012/07/serenbe.potluck.jpe)
 ## Avantages et limites 
 
 ### Avantages 
