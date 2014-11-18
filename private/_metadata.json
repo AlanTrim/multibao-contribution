@@ -109,6 +109,83 @@
    "slug": "six_chapeaux",
    "title": "Les six chapeaux",
    "tag": "Intermédiaire"
+  },
+  
+  "17": {
+   "updated": "14/11/2014",
+   "slug": "vote_pondere",
+   "title": "Vote pondéré",
+   "tag": "Débutant"
+  },
+  
+  "18": {
+   "updated": "14/11/2014",
+   "slug": "matrice_cape",
+   "title": "Matrice CAPE",
+   "tag": "Intermédiaire"
+  },
+  
+  "19": {
+   "updated": "14/11/2014",
+   "slug": "audit",
+   "title": "Audit",
+   "tag": "Intermédiaire"
+  },
+  
+  "20": {
+   "updated": "14/11/2014",
+   "slug": "cafe_itinerant",
+   "title": "Café itinérant",
+   "tag": "Débutant"
+  },
+  
+  "21": {
+   "updated": "14/11/2014",
+   "slug": "potluck",
+   "title": "Potluck",
+   "tag": "Débutant"
+  },
+  
+  "22": {
+   "updated": "14/11/2014",
+   "slug": "coach_clinic",
+   "title": "Coach clinic",
+   "tag": "Avancé"
+  },
+  
+  "23": {
+   "updated": "14/11/2014",
+   "slug": "marche_savoirs",
+   "title": "Marché de savoirs",
+   "tag": "Intermédiaire"
+  },
+  
+  "24": {
+   "updated": "14/11/2014",
+   "slug": "creative_problem_solving",
+   "title": "Creative Problem Solving",
+   "tag": "Intermédiaire"
+  },
+  
+  "25": {
+   "updated": "14/11/2014",
+   "slug": "constitution_citoyenne",
+   "title": "Constitution citoyenne",
+   "tag": "Avancé"
+  },
+  
+  "26": {
+   "updated": "14/11/2014",
+   "slug": "atelier_rue",
+   "title": "Atelier de rue",
+   "tag": "Débutant"
+  },
+  
+  "26": {
+   "updated": "14/11/2014",
+   "slug": "speed_cherching",
+   "title": "Speed cherching",
+   "tag": "Intermédiaire"
   }
   
 }
