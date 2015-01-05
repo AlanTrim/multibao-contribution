@@ -36,6 +36,6 @@ convivial
 
 ## Sources
 
-**(1)** : http://fr.wikipedia.org/wiki/Potluck 
-**(2)** Guillaume DEPREZ (Centre des Pratiques de la coopération) : rédaction & compilation
+* **(1)** : http://fr.wikipedia.org/wiki/Potluck 
+* **(2)** Guillaume DEPREZ (Centre des Pratiques de la coopération) : rédaction & compilation
 
