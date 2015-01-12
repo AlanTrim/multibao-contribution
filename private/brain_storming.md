@@ -2,7 +2,7 @@
 
 ## En une phrase  
 
-Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue; il en existe des centaines de formes différentes. **(3)**
+Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue ; il en existe des centaines de formes différentes. **(3)**
 
 ## À quoi ça sert ?
 
@@ -50,6 +50,7 @@ Ces deux principes se traduisent par quatre règles :
 L'idée est de chercher à obtenir le plus grand nombre d'idées possibles sans imposer ses idées.
 
 Ainsi, les suggestions absurdes et fantaisistes sont admises durant la phase de production et de stimulation mutuelles. En effet, les participants ayant une certaine réserve peuvent alors être incités à s'exprimer, par la dynamique de la formule et les interventions de l'animateur.
+
 C'est pour amener à cet accouchement en toute quiétude que l'absence de critique, la suggestion d'idées sans aucun fondement réaliste, et le rythme, sont des éléments vitaux pour la réussite du processus. **(2)**
 
 ### Déroulement
