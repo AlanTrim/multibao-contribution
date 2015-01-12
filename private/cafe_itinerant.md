@@ -13,7 +13,7 @@ Le café itinérant est une initiative collective où plusieurs personnes se ras
 * Se réapproprier l'espace public.
 * Favoriser une dynamique de quartier.
 * Manifester socialement et pacifiquement .
-* Questionner les limites (spatiales et juridiques) de l'espace public.
+* Questionner les limites spatiales et juridiques de l'espace public.
 * Trouver les mêmes qualités d'une terrasse de café sans dépenser d'argent.
 
 ## Présentation 
