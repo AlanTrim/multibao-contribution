@@ -17,7 +17,7 @@ Le vote pondéré regroupe un ensemble de méthodes permettant de prendre en com
 
 ### Procédure: 
 
-1. Par un brainstorming, le groupe définit des propositions.
+1. Par un brainstorming, le groupe définit des propositions
 2. Les propositions similaires sont regroupées
 3. Chaque membre du groupe possède un nombre donné de gomettes (ex : 10 par personne), qu'il peut coller comme il le souhaite sur chacune des propositions en fonction de la priorité (voir matrice priorité) qu'il lui accorde. S'il y a 10 propositions, il peut par exemple aussi bien placer 1 gomette sur chaque proposition que 10 sur une seule proposition.
 4. Lorsque l'ensemble du groupe s'est prononcé, on compte les gomettes. Les propositions avec le plus de gomettes sont jugés prioritaires par le groupe.
