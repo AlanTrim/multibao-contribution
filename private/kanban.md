@@ -1,7 +1,7 @@
 # Kanban simplifié
 
 ## En une phrase
-Outil de planification des tâches mondiallement reconnu et expérimenté, connu pour sa facilité de lecture et sa limitation intelligente de tâches à faire. Aussi le nom d'un système de productivité industrielle utilisé par Toyota. On présente ici une version très simplifiée **(1)**
+Outil de planification des tâches mondiallement reconnu et expérimenté, connu pour sa facilité de lecture et sa limitation intelligente de tâches à faire. Aussi le nom d'un système de productivité industrielle utilisé par Toyota. On présente ici une version très simplifiée **(1)** - wip
 
 ## À quoi ça sert ?
 * Organiser un grand nombre de tâches
