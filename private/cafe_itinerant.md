@@ -6,8 +6,6 @@ Le café itinérant est une initiative collective où plusieurs personnes se ras
 
 [En vidéo](https://www.youtube.com/watch?v=1--XI4_fszc)
 
-![photo](http://1.bp.blogspot.com/-3OXg_WK0cTo/T7-iYDNc7XI/AAAAAAAAA0g/SCoIFCMP95M/s1600/salins3.jpg)
-
 ## A quoi ça sert ?
 
 * Se réapproprier l'espace public.
