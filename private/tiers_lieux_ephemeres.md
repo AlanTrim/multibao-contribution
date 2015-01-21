@@ -5,7 +5,7 @@
 ## Publics cibles  
 
 * **Public** : Élus, responsables, chargés de mission
-* **Privé** : Consultants, formateurs, animateurs, coachs
+* **Privé** : Consultants, formateurs, animateurs,coachs
 * **Personnel** : Citoyens, groupes, communautés
  
 ## Temps d'auto formation pour ce module  
@@ -22,6 +22,10 @@
 
  Si vous vous posez la question avant ou après avoir lu cette page comment et qui peut vous aider, [demandez de l'aide dans le groupe Tilios](https://www.facebook.com/groups/tilios/) .
  
+ ![tilios](https://imagizer.imageshack.us/v2/583x328q90/631/cjiXmr.png)
+ 
+ 
+ 
  **A SAVOIR : "Le savoir se donne, la connaissance se partage et le talent se récompense", merci pour les contributeurs de citer vos sources !**
 
 ## Définition ##
@@ -32,9 +36,7 @@ Ce lieu peut être physique et/ou virtuel, grand ou petit, en intérieur et/ou e
 
 Au-delà d'être un outil transversal pour des événements de toutes natures, il permet de faire découvrir et s'approprier le concept des Tiers Lieux en le pratiquant au lieu de l'instituer ou le décréter.
 
-**Définition du Tiers Lieux en langue des signes et exemple de Tiers Lieux éphémère réalisé à Caen pour une consultation publique**
-
-
+![tiers-lieux](http://www.jeremymeyers.com/wp-content/uploads/2012/01/10.jpg)
 
 ##Pourquoi utilise t-on un Tiers Lieux éphémère ?
 
@@ -98,7 +100,7 @@ Le Tiers Lieux éphémère est un excellent outil pour les formateurs et animate
 * **Dans un espace public ou privé ouvert** : de la terrasse au jardin public, il faut surtout penser aux conditions météorologiques
 * **Dans un espace numérique virtuel** : il ne suffit pas de mettre un système contributif en place, s'il n'est pas habité et animé en même temps que l'événement il n'a pas d'intérêt
 
- 
+![jardin_coworking](http://southwhidbeycommons.org/wp-content/uploads/2011/06/Marimba-Music.jpg) 
 
 ##Temporalité et mobilité
 
@@ -171,7 +173,6 @@ Vous allez surtout avoir besoin de consommables et d'accessoires de bureautique
 *  MediaLab 
 * MakerSpace
 
- 
 
 ###Possibles
 
