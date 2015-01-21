@@ -78,6 +78,8 @@ Le Tiers Lieux éphémère est un excellent outil pour les formateurs et animate
 
 ##Dans quels cas utilise t-on un Tiers Lieux éphémère ?
 
+![roumics](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Roumics_2014_Lille.JPG/640px-Roumics_2014_Lille.JPG)
+
 **(co)Travailler et Vivre à l'ère nomade et numérique...**
 
 * [Pré-configurer la création d'un Tiers Lieux permanent](http://www.tilios.fr/2014/05/18/feedbak-de-la-15aine-en-video/ ) (People, Place et Process)
@@ -90,9 +92,7 @@ Le Tiers Lieux éphémère est un excellent outil pour les formateurs et animate
 * Pour des "grandes" rencontres ou "petits" événements privés, publics ou personnels (périodique, thématique, spécifique...)
 *  la POC Foundation|Pour construire des preuves de concepts  (POC) 
 
- 
-
-##Où conçoit-on un Tiers Lieux éphémère ?
+ ##Où conçoit-on un Tiers Lieux éphémère ?
 
 * **Dans un Tiers Lieux existant** : il s'agit d'améliorer l'existant ou de lui ajouter ponctuellement un ou plusieurs nouveau(x) service(s)
 * **Dans des lieux (voulant) évoluant en Tiers Lieux** : l'enjeux est ici d'imaginer une pré-configuration pour une éventuelle (future) ouverture 
@@ -355,6 +355,8 @@ Nous avons co-imaginé, co-conçu et co-créer le processus d'un tiers lieu éph
 * dailymotion|xp6eiy
 * **Rencontres d'Autrans 2012 : appropriation du mot Tiers Lieux** - ev:youtube|l3wF1HVFtM0
 **Forum de Brest 2012 : passage à Tiers Lieux et Open Source**  
+
+![forum des usages coopératifs](http://elusnumeriques.info/wp-content/uploads/2014/05/AlaUne_Article_ForumDesUsages.jpg)
  
 
 ###Déclinaisons
