@@ -1,5 +1,7 @@
 # Tiers lieux éphémères
 
+![tierslieux](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Roumics_2014_Lille_Public_57.JPG/640px-Roumics_2014_Lille_Public_57.JPG)
+
 ## Publics cibles  
 
 * **Public** : Élus, responsables, chargés de mission
