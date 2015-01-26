@@ -14,14 +14,9 @@ Un MOOC est un dispositif de formation initiale ou continue, en ligne et à dist
 * Rencontrer et partager des connaissances pratiques et théoriques avec des utilisateurs du monde entier. (1)
 
 
-##Informations pratiques
-
-* Nombre de participants : illimité
-* Durée de préparation : au moins 1 heure
-* Durée événement : illimité(1)
-* Coût : environs 50000€ (3)
-
 ##Présentation
+
+![massive online open course](http://upload.wikimedia.org/wikipedia/commons/c/cb/MOOC_poster_mathplourde.jpg)
 
 Un MOOC (Massive Online Open Courses) est un cours massivement ouvert en ligne, gratuit, qui permet de suivre des cours à 150000 personnes. Les premiers MOOCs sont apparus en 2008 dans les Universités Stanford et Harvard (Etats-Unis). Aujourd'hui, les MOOCs regroupent un ensemble de contenus vidéos, de quiz, qui permettent à tout le monde de suivre des cours en ligne. (3)
 
