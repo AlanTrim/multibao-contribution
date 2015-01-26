@@ -18,7 +18,7 @@ Un MOOC est un dispositif de formation initiale ou continue, en ligne et à dist
 
 ##Présentation
 
-![massive online open course](http://upload.wikimedia.org/wikipedia/commons/c/cb/MOOC_poster_mathplourde.jpg)
+![massive online open course](http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MOOC_lamiot_cc_by_sa.jpg/600px-MOOC_lamiot_cc_by_sa.jpg)
 
 Un MOOC (Massive Online Open Courses) est un cours massivement ouvert en ligne, gratuit, qui permet de suivre des cours à 150000 personnes. Les premiers MOOCs sont apparus en 2008 dans les Universités Stanford et Harvard (Etats-Unis). Aujourd'hui, les MOOCs regroupent un ensemble de contenus vidéos, de quiz, qui permettent à tout le monde de suivre des cours en ligne. (3)
 
