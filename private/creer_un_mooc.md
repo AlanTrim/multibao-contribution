@@ -50,6 +50,8 @@ Les certifications payantes ont de la valeur, mais ne s'appliquent que pour un c
 
 Les MOOCs sont financés par certaines entreprises comme Google qui sélectionnent leurs informaticiens grâce à des plateformes de MOOCs commercialisées. Elles peuvent repérer les futurs talents en se renseignant sur les résultats des étudiants. (3)
 
+![Mooc](https://www.flickr.com/photos/bean/322615227/in/photostream/)
+
 
 ##Procédure
 
