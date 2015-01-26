@@ -4,6 +4,8 @@
 
 Un MOOC est un dispositif de formation initiale ou continue, en ligne et à distance, massivement ouvert et accessible à tous. (1)
 
+![Mooc](http://farm9.static.flickr.com/8227/8397808475_d7554a5c62.jpg)
+
 ##A quoi ça sert ?
 
 * Permettre à tous d'accéder à une formation gratuite depuis chez soi.
