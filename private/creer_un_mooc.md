@@ -92,7 +92,6 @@ Alan Trim, association Centre des Pratiques de la Coopération, publié sous lic
 
 ##Sources
 
-Wikipedia(2)
-https://www.youtube.com/watch?v=SsOhq1Q4ltY (3)
-
-France Université Numérique - Juliette Roussel (4)
+* Wikipedia (2), publié sous licence Creative Commons BY-SA
+* https://www.youtube.com/watch?v=SsOhq1Q4ltY (3)
+* France Université Numérique - Juliette Roussel (4)
