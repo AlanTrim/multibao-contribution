@@ -30,12 +30,8 @@ Les personnes souhaitant autoriser la communication au public de leur œuvre « 
 d’auteur.
 Les personnes souhaitant autoriser les usages uniquement non commerciaux peuvent utiliser une licence Creative Commons comportant la clause NC (Non Commercial), par laquelle l'auteur se réserve l'exclusivité des droits d'exploitation commerciale ou de leur cession exprès à une entité de son choix ; inversement, toute entité souhaitant utiliser commercialement une œuvre sous licence CC ayant la clause NC doit demander l'autorisation à l'auteur, qui est libre de l'accorder ou non et dans les conditions de son choix.
 Toute personne qui a créé une œuvre (texte, musique, vidéo, site Web, photographie, etc.) et qui a la capacité de signer un contrat portant sur cette œuvre peut utiliser l’un des contrats Creative Commons. A contrario il n’est pas possible d’utiliser un contrat Creative Commons pour une œuvre sur laquelle on ne dispose pas de l’ensemble des droits.
-Six possibilités combinées autour de quatre pôles définissent les différents usages :
- Attribution : signature de l’auteur initial (ce choix est obligatoire en droit français) (sigle : BY)
- Non Commercial : interdiction de tirer un profit commercial de l’œuvre sans autorisation de l'auteur (sigle : NC)
- No derivative works : impossibilité d’intégrer tout ou partie dans une œuvre composite ; l'échantillonnage (sampling), par exemple, devenant impossible (sigle : ND)
- Share alike : partage de l’œuvre, avec obligation de rediffuser selon la même licence ou une licence similaire (version ultérieure ou localisée) (sigle : SA)
-Exemple de combinaison : Creative Commons BY-NC-SA.
+
+**Six possibilités combinées autour de quatre pôles définissent les différents usages:**
 
 ![creativecommons](https://libres-savoirs.regioncentre.fr/joomla/images/stories/2011/1106_TableauCC.jpg)
 
@@ -60,7 +56,9 @@ Selon Puneet Kishor, le projet derrière Creative Commons, organisation mondiale
 ![creativecommons](https://www.mysciencework.com/bundles/mswblog/images/Gallery/2014/07/53cfce42c446e.jpeg?20140722211158)
 
 Cela a tout à voir avec la recherche. « Pendant des siècles, les scientifiques ont utilisé le travail d'autres scientifiques et les ont crédités. C'est faire ce qui est juste, et vous n'avez pas besoin que la loi vous y incite pour le faire », a simplement rappelé Puneet Kishor à son public. Ainsi, dans le but de répondre au premier de ces objectifs fondamentaux, faire avancer la science, les chercheurs doivent faire en sorte que leur travail soit aussi facilement réutilisable que possible. En adoptant l'une des nombreuses variations sur le thème Creative Commons, le monde scientifique sera en mesure d'observer, d’apprendre et de construire à partir des avancées permises par vos travaux. Puneet Kishor a cité plusieurs acteurs scientifiques qui font déjà usage des licences CC : PLOS, PeerJ, BioMed Central, certaines branches de Nature et AAAS. Autre chose qu'il faut garder à l'esprit : « Si vous n'appliquez pas de licence », met-il en garde, « vous ne donnez licence à rien. La loi applique par défaut l'option la plus restrictive. »
+
 En réalité, certains sont peut-être convaincus qu'ils ont plutôt besoin de restriction. « Et si j'utilise Creative Commons et que quelqu'un me vole mon travail ? », a pu entendre Puneet Kishor de la bouche de chercheurs inquiets. En fait, les étiquettes Creative Commons sont aussi inefficaces que n'importe quelle autre licence à servir de « bouclier magique », à protéger un travail des usages abusifs contre vents et marées. Toutes les licences ne sont rien de plus que des panneaux de signalisation, indiquant les conditions selon lesquelles le produit de vos recherches peut être dupliqué, modifié, servir de base à d'autres travaux. « Dans tous les cas, les gens feront ce qui est juste ou pas », explique-t-il. « Une licence est un signe à l’attention des gens de bonne volonté, un guide contre l'incertitude, et n'a aucune valeur pour les malintentionnés. »
+
 Si vous utilisez différents éléments avec différentes licences dans un seul article, Puneet Kishor conseille de toutes les marquer clairement. Non seulement cela facilitera la réutilisation de vos travaux, mais l'étiquetage est crucial pour certains usages comme l'exploration de données (datamining). « Les licences Creative Commons ont des tags lisibles par machine, on peut donc apprendre à un ordinateur à les identifier, ce qui n'exclut pas qu'un humain doive tout étiqueter correctement ». 
 
 ![imageCC](https://www.mysciencework.com/bundles/mswblog/images/Gallery/2014/07/53cfce689c24a.jpeg?20140722211158)
@@ -70,6 +68,8 @@ Les propositions les plus simples de la part de Creative Commons, CC-BY et CC0, 
 Puneet Kishor insiste sur le fait qu'une licence ouverte vous permet déjà d'atteindre ce que vous cherchez, alors qu'une option moins ouverte ne vous laisse probablement pas faire ce que vous pensez. Lorsqu'on commence à faire des combinaisons de licences avec différents niveaux de restriction, les choses deviennent très compliquées.
 
 Concrètement, Creative Commons veut que les chercheurs s'occupent de science, pas des méandres du droit de la propriété intellectuelle. Les chercheurs seront sans aucun doute d'accord avec ça. Au nom de la productivité et du progrès, « Allez toujours au plus simple » suggère Puneet Kishor, « et retournez à vos travaux scientifiques. » (4)
+
+![licences](https://www.mysciencework.com/bundles/mswblog/images/Gallery/2014/07/53cfcea91b285.jpeg?20140722211158)
 
 ## Procédure
 
