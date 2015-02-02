@@ -1,8 +1,12 @@
 # Publier une recherche scientifique en Creative commons
 
+![CC](http://www.bibliobsession.net/wp-content/uploads/2010/06/creativecommonsbig.jpg)
+
 ## En une phrase
 
 L’appellation Creative commons désigne des licences régissant les conditions de réutilisation et/ou de distribution d’œuvres diffusées sur internet, selon lesquelles le contenu des recherches scientifiques peut être publié et accessible gratuitement et librement. (1)
+
+![open](http://pixabay.com/static/uploads/photo/2013/02/10/12/44/sure-80067_640.jpg)
 
 ## A quoi ça sert ?
 
