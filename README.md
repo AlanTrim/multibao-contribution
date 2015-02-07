@@ -1,14 +1,14 @@
 # Dépot principal des contributions
 
-> multibao.org
+> http://www.multibao.org
 
 ## FAQ
 
-### Comment puis-je contribuer ?
+#### Comment puis-je contribuer ?
 
-### Est-ce que je peux créer mon propre dépot ?
+#### Est-ce que je peux créer mon propre dépot de contributions ?
 
-### Je souhaiterais insérer des fiches dans mon site, est-ce possible ?
+#### Je souhaiterais insérer des fiches dans mon site, est-ce possible ?
 
 Absolument, les instructions sont disponibles sur ce dépôt :
 > https://github.com/scopyleft/multibao/tree/dev/public/integration
