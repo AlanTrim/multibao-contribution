@@ -16,4 +16,5 @@ Absolument, les instructions sont disponibles sur ce dépôt :
 Tu peux également contacter l'un des Gentils Organisateurs :
 > http://multibao.meteor.com/page/nous_contacter
 
-
+#### J'ai repéré une erreur, comment puis-je la signaler ?
+> https://github.com/scopyleft/multibao-contribution/issues
