@@ -2,7 +2,7 @@
 
 ## En une phrase  
 
-La démarche du Cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer. **(3)** 
+La démarche du Cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer. **[(3)](#note3)** 
 
 ## À quoi ça sert ?
 
@@ -70,8 +70,8 @@ Caroline PICTON (relecture et vérification des sources)
 
 ## Sources
 
-* **(1)** [KStools](http://www.kstoolkit.org/Cercle+excentrique), sous licence Creative Commons BY SA
-* **(2)** [Wikipedia](http://en.wikipedia.org/wiki/Fishbowl_%28conversation%29), sous licence Creative Commons BY SA
-* **(3)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://www.cpcoop.fr), sous licence Creative Commons BY-SA
-* **(4)** Communauté [AOH Montreal](http://www.aohmontreal.org/valoriser-et-honorer-lexpertise-dans-les-processus-participatifs/), sous licence Creative Commons BY-SA
+* <a id="note1">**(1)** [KStools](http://www.kstoolkit.org/Cercle+excentrique), sous licence Creative Commons BY SA</a>
+* <a id="note2">**(2)** [Wikipedia](http://en.wikipedia.org/wiki/Fishbowl_%28conversation%29), sous licence Creative Commons BY SA</a>
+* <a id="note3">**(3)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://www.cpcoop.fr), sous licence Creative Commons BY-SA</a>
+* <a id="note4">**(4)** Communauté [AOH Montreal](http://www.aohmontreal.org/valoriser-et-honorer-lexpertise-dans-les-processus-participatifs/), sous licence Creative Commons BY-SA</a>
 
