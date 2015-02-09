@@ -1,13 +1,9 @@
-#Les MOOCs
-
-##En une phrase
-
+# Les MOOCs
+## En une phrase
 Un MOOC est un dispositif de formation initiale ou continue, en ligne et à distance, massivement ouvert et accessible à tous. (1)
-
 ![Mooc](http://farm9.static.flickr.com/8227/8397808475_d7554a5c62.jpg)
 
-##A quoi ça sert ?
-
+## A quoi ça sert ?
 * Permettre à tous d'accéder à une formation gratuite depuis chez soi.
 * Permettre à tous d'accéder à une formation éloignée du domicile, grâce à internet.
 * Permettre aux enseignants de développer leur visibilité sur internet.
@@ -15,82 +11,81 @@ Un MOOC est un dispositif de formation initiale ou continue, en ligne et à dist
 * Diffuser librement la connaissance.
 * Rencontrer et partager des connaissances pratiques et théoriques avec des utilisateurs du monde entier. (1)
 
+## Présentation
 
-##Présentation
+Un MOOC (Massive Online Open Courses) est un cours massivement ouvert en ligne, gratuit, qui permet de suivre des cours à quelques milliers voire centaines de milliers de personnes pour les MOOCs qui ont eu le plus de succès. Les premiers MOOCs sont apparus en 2008 dans les Universités de Stanford et Harvard (Etats-Unis). Aujourd'hui, les MOOCs regroupent un ensemble de contenus vidéo, de quiz, qui permettent à tout le monde de suivre des cours en ligne. (3)
 
-![massive online open course](http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MOOC_lamiot_cc_by_sa.jpg/600px-MOOC_lamiot_cc_by_sa.jpg)
+* Qui crée des projets de MOOC ?
+N'importe qui peut créer un MOOC : amateur éclairé ou spécialiste / enseignant, dès lors qu'il en a le temps et les moyens. Dans le cas des MOOCs académiques, il s'agit le plus souvent de projets d'établissement.
 
-Un MOOC (Massive Online Open Courses) est un cours massivement ouvert en ligne, gratuit, qui permet de suivre des cours à 150000 personnes. Les premiers MOOCs sont apparus en 2008 dans les Universités Stanford et Harvard (Etats-Unis). Aujourd'hui, les MOOCs regroupent un ensemble de contenus vidéos, de quiz, qui permettent à tout le monde de suivre des cours en ligne. (3)
+* Pourquoi les gens font des MOOC ?
+Les motivations pour créer un MOOC sont diverses et variées allant du partage de connaissances et d'échange avec les participants, à des motivations plus stratégiques: diffusion des savoirs, faire connaître l'enseignant ou l'établissement, publicité pour des formations payantes ou des évènements divers tels que des expositions, sélectionner des candidats pour une formation, un évènement ou un poste dans une entreprise, etc.
 
-La création d'un MOOC rentre toujours dans le cadre d'un projet d'établissement. Soit les établissements supérieurs lancent la démarche, en finançant les professeurs qui créent le MOOC, soit les enseignants prennent l'initiative d'en créer un en s'inscrivant dans un projet. L'établissement rémunère les enseignants, qui peuvent être payés en heures complémentaires. Ils peuvent être invités dans des établissements à l'international pour donner des conférences. 
+* Où peuvent-ils être hébergés ?
+Les MOOC sont hébergés sur des plateformes dédiées qui peuvent être généralistes ou spécialisées (par sujet, par public, par niveau, par producteur du cours, etc.), à portée locale ou internationale, généralement multilingue. (3)
 
-Il existe plusieurs plateformes de gestion, chargés de l'accompagnement technique et de la diffusion des MOOCs. Elles sont gérées entre autres par un ingénieur en pédagogie et un pôle administratif. Les créateurs de MOOCs choisissent la plateforme sur laquelle ils veulent diffuser leur MOOC.
+Les MOOCs se divisent en deux catégories : Les MOOC « transmissifs » ou « xMOOC » : type « e-learning ». Des enseignants transmettent leurs connaissances directement aux étudiants. Les MOOC « connectivistes » ou « cMOOC » : constitués de façon collaborative, où les étudiants construisent les cours. (2) 
 
-Le ministère peut passer des commandes de création de MOOCs auprès des établissements : début 2015, il a commandé la création d'un MOOC « créer un MOOC de A à Z » (auprès de l'établissement ... de Cachan). Celui-ci sera géré par la plateforme "FUN" (France Université Numérique), laquelle est en relation avec environ 200 personnes à travers le monde, dont l'Agence Universitaire de Francophonie, basée au Maghreb.
-
-Bien que l'on retrouve tous les cas de figure, les petits établissements sont plutôt portés par le goût de la pédagogie tandis que les grands établissements prestigieux se servent généralement d'un projet de MOOC à des fins stratégiques, dans l'objectif d'augmenter leur prestige à l'international. Environs un tiers des universités de France lancent des projets de MOOCs. (4)
-
-Les MOOCs se divisent en deux catégories :
-Les MOOC « transmissifs » ou « xMOOC » : type « e-learning ». Des enseignants transmettent leurs connaissances directement aux étudiants.
-Les MOOC « connectivistes » ou « cMOOC » : constitués de façon collaborative, où les étudiants construisent les cours.
-
-L'utilisateur déroule un « screencast », un diaporama, avec une vidéo du cours de l'enseignant. Les enseignants peuvent revoir leur propre cours afin de le corriger. Celui-ci est enrichi par des exercices tout au long de la formation jusqu'à l'évaluation finale. Il existe des MOOCs pour presque n'importe quelle formation.
+Un MOOC est constitué de ressources pédagogiques de formes variées et complémentaires (vidéos, textes, images, animations, quiz divers, études de cas, évaluation par les pairs, espaces d’échange entre participants et avec l’équipe pédagogique, classes virtuelles, webinaires, etc.) (3)
 
 Le système pédagogique est caractéristique du modèle de la classe inversée, où l'enseignant laisse beaucoup d'autonomie à l'élève, afin qu'il apprenne à chercher les informations par lui-même.
-
 Avec une tablette numérique ou un smartphone, les étudiants peuvent suivre leurs cours d'où ils veulent et quand ils veulent. Ils ont la possibilité de développer des interactions avec des étudiants du monde entier.
 
-Les universités sont en compétition mondiale pour la diffusion de leurs MOOCs dans l'objectif de se valoriser à l'international. La diffusion massive du site pédagogique représente un enjeu de démocratisation du savoir. Les études étant chères aux Etats-Unis, les MOOCs constituent une excellente alternative pour les étudiants qui n'auraient pas les moyens d'étudier à l'Université.
+Les universités sont en compétition mondiale pour la diffusion de leurs MOOCs dans l'objectif de se valoriser à l'international. La diffusion massive du site pédagogique représente un enjeu de démocratisation du savoir. Les études étant chères aux Etats-Unis, les MOOCs constituent une excellente alternative pour les étudiants qui n'auraient pas les moyens d'étudier à l'Université. (2)
 
-L'évaluation se fait par les pairs, développant une dynamique de communauté d'apprentissage. Le logiciel envoie aux étudiants les devoirs d'autres étudiants qui s'évaluent mutuellement à l'aide d'une grille correctrice. Il délivre un « certificat de complétion », qui atteste que son propriétaire a suivi le cours. Il peut attribuer de véritables diplômes, dont certains sont payants. Le développement de centres d'examens est actuellement à l'étude pour donner davantage de légitimité à la certification.(3)
+Certains MOOCs proposent l’évaluation par les pairs mais la majorité utilise les quiz. 
 
-Les MOOCs délivrent une « attestation de suivi avec succès » qui n'a aucune valeur en soi, elle n'a de valeur que celle que l'apprenant veut bien lui donner. Sur le marché de l'emploi, elle n'engage que la confiance.
+* Quelle est la motivation des utilisateurs à suivre le MOOC ?
 
-Les certifications payantes ont de la valeur, mais ne s'appliquent que pour un cours spécifique. Ainsi, un seul MOOC n'a pas autant de valeur qu'un diplôme universitaire, car il ne constituerait qu'une seule Unité d'Enseignement. Il faudrait ainsi suivre plusieurs MOOCs en même temps pour que la certification soit équivalente à une formation classique. Le programme d'un MOOC est généralement réparti sur 4 à 5 semaines.  (4)
+La motivation première des participants est de découvrir de nouveaux sujets, d’acquérir des connaissances et des compétences nouvelles ou de se perfectionner, d’échanger avec les autres inscrits, etc. Dans un contexte de formation tout au long de la vie, les participants peuvent souhaiter un document attestant du travail et de la réussite au MOOC. Cela peut prendre différentes formes :
+une simple attestation n’ayant ni valeur académique, ni reconnaissance par le secteur professionnel ; une certification individuelle, généralement payante ; une reconnaissance dans un parcours universitaire (ex : délivrance de crédits ECTS). (3)
 
-Les MOOCs sont financés par certaines entreprises comme Google qui sélectionnent leurs informaticiens grâce à des plateformes de MOOCs commercialisées. Elles peuvent repérer les futurs talents en se renseignant sur les résultats des étudiants. (3)
+Les MOOCs sont financés par certaines entreprises comme Google qui sélectionnent leurs informaticiens grâce à des plateformes de MOOCs commercialisées. Elles peuvent repérer les futurs talents en se renseignant sur les résultats des étudiants. (2)
 
-![Mooc](http://farm1.static.flickr.com/138/322616749_6367a7a474.jpg)
+## Procédure
 
+* Préparation d’un MOOC
 
-##Procédure
+La conception d’un MOOC nécessite des compétences spécifiques, des moyens techniques et humains, et du temps. En moyenne, la création d’un MOOC prend un an : 3 mois pour définir et cadrer le projet, 9 mois pour le réaliser.
+Les étapes de conception sont les suivantes :
+- organiser le travail d’équipe ;
+- définir les modalités pédagogiques et les modalités d’évaluation ;
+- définir les modalités d’échange avec les participants (forum, wiki, directs, etc.) ;
+- produire le contenu (tourner les vidéos, rédiger les textes et les autres ressources pédagogiques) ;
+- saisir et paramétrer le tout sur la plateforme ;
+- tester le bon fonctionnement du MOOC.
 
-* Préparation
-Il faut en moyenne un an pour créer un MOOC  ( 3 mois de recherches de financements et d'informations, 9 mois pour la réalisation). (4)
-Production de cours avec des « screencasts ». Les enseignants se filment entrain d'exposer leur cours puis ils complètent la vidéo de leur cours par des schémas et animations.
-Publication des cours sur des plateformes qui gèrent des milliers de cours.
- 
-* Déroulement
+* Déroulement d’un MOOC
 
-L'étudiant peut visionner le cours autant de fois qu'il le souhaite. (3)
+Les MOOC se déroulent sur une période de 5 semaines en moyenne. Certains MOOC vont jusqu’à 12 semaines et d’autres s’étendent sur toute une année universitaire. Certains, aussi, peuvent se dérouler sur de plus courtes durées : 2 à 4 semaines. Ces derniers ciblent souvent des compétences plus spécifiques.
+Le déroulement du MOOC suit plusieurs étapes :
+- communiquer sur le MOOC pour inciter à s’y inscrire ;
+- pendant le MOOC, accompagner les apprenants et animer la communauté ;
+- après le MOOC, faire un bilan de l’expérience. (3)
 
-
-##Avantages et limites
-
+## Avantages et limites
 ## Avantages :
 
-* Permet de développer la visibilité des enseignants sur internet.
-* Permet de revoir un même cours autant de fois qu'on le souhaite et d'où on veut.
-* Les cours sont accessibles à tous.
+* Permet de développer la visibilité du créateur du cours.
+* Permet de revoir un même cours autant de fois qu'on le souhaite et d'où on veut. 
+* Les MOOCs sont accessibles à tous.
 * Les cours sont gratuits.
-* Favorise le développement des compétences transversales comme l'autonomie et le travail collaboratif. (3)
+* Favorise le développement des compétences transversales comme l'autonomie et le travail collaboratif.
 
 ## Limites
 
-* Publication d'un MOOC très coûteux.
-* Sélection des cours des enseignants très stricte : les plateformes de MOOC n'acceptent pas tous les cours.
-* La certification par évaluation des pairs manque de légitimité.
-* Nécessite un accès à internet. (3)
-* Les créateurs de MOOCs doivent savoir gérer les commentaires et critiques, ne pas les prendre trop à cœur (savoir s'associer pour être soutenu et diluer la responsabilité) (4)
+* Généralement plus coûteux qu’un cours en présentiel car une équipe d’animation est mobilisée tout au long du projet. 
+* Selon les politiques éditoriales des plateformes, l’accueil des cours peut être plus ou moins sélectif.
+* L’évaluation par les pairs est parfois perçue comme peu légitime par certains participants. 
+* Nécessite un accès à internet. 
+* Compte tenu du volume d’inscrits, de l’anonymat des participants et de la large publicité donnée au cours, les commentaires et remarques sur le cours peuvent être très nombreuses et être plus directes, voire agressives, qu’elles ne le seraient dans un contexte plus formel. Les équipes du MOOC doivent être capables de prendre du recul vis-à-vis des critiques pour ne pas les prendre de manière personnelle. (3)
+
+## Compilation, traduction et présentation
+Alan Trim, association Centre des Pratiques de la Coopération, publié sous licence Creative Commons BY-SA. 
+
+## Sources
+* Wikipedia (1), publié sous licence Creative Commons BY-SA
+* https://www.youtube.com/watch?v=SsOhq1Q4ltY (2)
+* France Université Numérique (3)
 
 
-
-##Compilation, traduction et présentation
-
-Alan Trim, association Centre des Pratiques de la Coopération, publié sous licence Creative Commons BY-SA. (1)
-
-##Sources
-
-* Wikipedia (2), publié sous licence Creative Commons BY-SA
-* https://www.youtube.com/watch?v=SsOhq1Q4ltY (3)
-* France Université Numérique - Juliette Roussel (4)
