@@ -4,6 +4,8 @@
 
 La sociocratie est un mode de prise de décision et de gouvernance qui permet à un organisme de s’auto-organiser afin de développer la co-responsabilisation des acteurs et de mettre le pouvoir de l’intelligence collective au service du succès de l’organisation.**(1)**
 
+![sociocratie](https://c2.staticflickr.com/4/3302/3510534937_b682bd7cff_z.jpg?zz=1)
+
 ## A quoi ça sert ?
 
 - Favoriser la responsabilisation et la reconnaissance des acteurs de l’organisme en leur permettant de participer à l’organisation d’un projet, chacun à son échelle.
