@@ -24,12 +24,16 @@ Les motivations pour créer un MOOC sont diverses et variées allant du partage 
 * Où peuvent-ils être hébergés ?
 Les MOOC sont hébergés sur des plateformes dédiées qui peuvent être généralistes ou spécialisées (par sujet, par public, par niveau, par producteur du cours, etc.), à portée locale ou internationale, généralement multilingue. (3)
 
-Les MOOCs se divisent en deux catégories : Les MOOC « transmissifs » ou « xMOOC » : type « e-learning ». Des enseignants transmettent leurs connaissances directement aux étudiants. Les MOOC « connectivistes » ou « cMOOC » : constitués de façon collaborative, où les étudiants construisent les cours. (2) 
+Comme son nom l'indique, l'inscription à un programme MOOC se fait en ligne. L'intégralité du MOOC est accessible sur internet. (4)
 
-Un MOOC est constitué de ressources pédagogiques de formes variées et complémentaires (vidéos, textes, images, animations, quiz divers, études de cas, évaluation par les pairs, espaces d’échange entre participants et avec l’équipe pédagogique, classes virtuelles, webinaires, etc.) (3)
+Les participants se connectent à une plateforme diffusant des ressources pédagogiques de formes variées et complémentaires (vidéos, textes, images, animations, quiz divers, études de cas, évaluation par les pairs, espaces d’échange entre participants et avec l’équipe pédagogique, classes virtuelles, webinaires, etc.) (3)
+
+Les MOOCs se divisent en deux catégories : Les MOOC « transmissifs » ou « xMOOC » : type « e-learning ». Des enseignants transmettent leurs connaissances directement aux étudiants. Les MOOC « connectivistes » ou « cMOOC » : constitués de façon collaborative, où les étudiants construisent les cours. 
 
 Le système pédagogique est caractéristique du modèle de la classe inversée, où l'enseignant laisse beaucoup d'autonomie à l'élève, afin qu'il apprenne à chercher les informations par lui-même.
-Avec une tablette numérique ou un smartphone, les étudiants peuvent suivre leurs cours d'où ils veulent et quand ils veulent. Ils ont la possibilité de développer des interactions avec des étudiants du monde entier.
+Avec une tablette numérique ou un smartphone, les étudiants peuvent suivre leurs cours d'où ils veulent et quand ils veulent. Ils ont la possibilité de développer des interactions avec des étudiants du monde entier. (2)
+
+On parle de "pédagogie active", à savoir que l'appretissage n'est plus vertical (de l'expert vers l'apprenant), mais s'horizontalise grâce aux échanges entre apprenants et avec l'équipe pédagogique. Le tout, grâce aux fonctionnalités sociales des plateformes de MOOCs. (4)
 
 Les universités sont en compétition mondiale pour la diffusion de leurs MOOCs dans l'objectif de se valoriser à l'international. La diffusion massive du site pédagogique représente un enjeu de démocratisation du savoir. Les études étant chères aux Etats-Unis, les MOOCs constituent une excellente alternative pour les étudiants qui n'auraient pas les moyens d'étudier à l'Université. (2)
 
@@ -66,6 +70,7 @@ Le déroulement du MOOC suit plusieurs étapes :
 ## Avantages et limites
 ## Avantages :
 
+* Formation initiale et continue, plus ouverte et évolutive. (4)
 * Permet de développer la visibilité du créateur du cours.
 * Permet de revoir un même cours autant de fois qu'on le souhaite et d'où on veut. 
 * Les MOOCs sont accessibles à tous.
@@ -87,5 +92,6 @@ Alan Trim, association Centre des Pratiques de la Coopération, publié sous lic
 * Wikipedia (1), publié sous licence Creative Commons BY-SA
 * https://www.youtube.com/watch?v=SsOhq1Q4ltY (2)
 * France Université Numérique (3)
+* https://www.youtube.com/watch?v=kJSQ_5HPMrU&feature=youtu.be (4)
 
 
