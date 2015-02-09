@@ -77,7 +77,7 @@ Le projet « eau durable » a permis un réel dialogue entre les acteurs du terr
 
 # Avantages et limites
 
-* Avantages
+## Avantages
 
 - L’intérêt du théâtre forum est de dynamiser le spectateur en le rendant « spect'acteur ».
 
@@ -87,7 +87,7 @@ Le projet « eau durable » a permis un réel dialogue entre les acteurs du terr
 
 - Le théâtre forum est un facteur de développement pour les populations dans les pays du Sud.
 
-* Limites
+## Limites
 
 - L’orientation donnée à la pièce de théâtre et la difﬁculté à ne pas livrer un message prédéﬁni : les comédiens peuvent orienter le débat et les problématiques en faisant apparaître le « bien » et le « mal »…
 
@@ -98,8 +98,5 @@ Le projet « eau durable » a permis un réel dialogue entre les acteurs du terr
 Alan TRIM - Université Montpellier 3 - Centre des Pratiques de la Coopération 
 
 # Sources
-FONDATION NICOLAS HULOT POUR LA NATURE ET L'HOMME : www.fnh.org - Licence Creative Commons BY NC SA
 
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+* FONDATION NICOLAS HULOT POUR LA NATURE ET L'HOMME : www.fnh.org - Licence Creative Commons BY NC SA
