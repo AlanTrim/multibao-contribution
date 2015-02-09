@@ -1,16 +1,16 @@
-## Théâtre forum
+# Théâtre forum
 
-# En une phrase
+## En une phrase
 
 Le théâtre forum est une méthode de débat participatif consistant à mettre en scène des comédiens chargés d’improviser et de créer une pièce sur des thématiques sociales, économiques, sanitaires ou environnementales, dans l'objectif de transformer le spectateur en acteur via l’expérimentation de scénarios avec le public aﬁn de trouver ensemble des alternatives possibles.
 
-# A quoi ça sert ?
+## A quoi ça sert ?
 
 * Permet aux opprimés des pays en voie de développement de s'exprimer.
 * Permettre à tous de participer activement aux décisions politiques.
 * Permet de décentraliser les décisions politiques en adaptant la loi à l'opinion publique la plus consensuelle.
 
-# Présentation
+## Présentation
 
 Créée par Augusto Boal dans les années 60, cette méthodologie a été mise au point dans les favelas de Sao Paulo comme outil pour faire participer les populations défavorisées ou opprimées et leur donner les moyens d’agir.
 
@@ -20,7 +20,7 @@ Le théâtre forum met en scène des comédiens chargés d’improviser et de cr
 
 Cependant, les pratiques du théâtre forum se sont élargies. Elles sont désormais organisées par divers types d’acteurs, touchent tous types de public et sont utilisées dans les pays d’Europe pour traiter des problèmes de société (commerce équitable, habitat durable, déchets, eau…).
 
-# Procédure
+## Procédure
 
 * Préparation
 
