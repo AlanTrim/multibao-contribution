@@ -4,6 +4,8 @@
 
 Le théâtre forum est une méthode de débat participatif consistant à mettre en scène des comédiens chargés d’improviser et de créer une pièce sur des thématiques sociales, économiques, sanitaires ou environnementales, dans l'objectif de transformer le spectateur en acteur via l’expérimentation de scénarios avec le public aﬁn de trouver ensemble des alternatives possibles.
 
+![theatre](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Augusto_Boal_nyc5.jpg/640px-Augusto_Boal_nyc5.jpg)
+
 ## A quoi ça sert ?
 
 * Permet aux opprimés des pays en voie de développement de s'exprimer.
