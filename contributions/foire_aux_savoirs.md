@@ -1,6 +1,6 @@
 # Foire aux savoirs
 
-![foire][http://www.tourisme93.com/Local/tourisme93/idfm/FMA/2013_saint-ouen-foiredsf.jpg)
+![foire](http://www.tourisme93.com/Local/tourisme93/idfm/FMA/2013_saint-ouen-foiredsf.jpg)
 
 Informelle, ouverte, souple et de nature non hiérarchique, la foire des connaissances (appelée aussi "foire aux savoirs") met en exposition les activités et les communautés liées au savoir et les rend concrètement accessibles à une partie du
 personnel, parfois même aux partenaires et aux clients.
