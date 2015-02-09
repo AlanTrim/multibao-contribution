@@ -4,7 +4,7 @@
 
 Le talk show est une méthode de conférence (partage de savoirs) inspirée de la méthode du cercle excentrique, qui reprend le thème amusant d'un "Talk show" à l'américaine. **(2)**
 
-![format](http://upload.wikimedia.org/wikipedia/commons/2/2d/Open_Talk_Debate_Show.jpg)
+![format](http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2008-11-27_Riverboat-Talkshow.jpg/640px-2008-11-27_Riverboat-Talkshow.jpg)
 
 ## A quoi ça sert ?
 
