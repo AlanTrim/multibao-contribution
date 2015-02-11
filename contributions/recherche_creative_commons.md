@@ -4,7 +4,7 @@
 
 ## En une phrase
 
-L’appellation Creative commons désigne des licences régissant les conditions de réutilisation et/ou de distribution d’œuvres diffusées sur internet, selon lesquelles le contenu des recherches scientifiques peut être publié et accessible gratuitement et librement. (1)
+L’appellation Creative commons désigne des licences qui élargissent sous certaines conditions, le droit de réutilisation et/ou de distribution d’œuvres diffusées sur internet telles que des ouvrages, des images ou des publications scientifiques. (1)
 
 ## A quoi ça sert ?
 
