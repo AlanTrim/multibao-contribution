@@ -31,6 +31,10 @@ Tu peux également contacter l'un des Gentils Organisateurs :
 
 Si ça te parait trop austère, tu peux également passer par mail.
 
+### Existe-t-il un classement des meilleurs contributeurs multibao de la planète ?
+
+Oui évidement, le top 10 est accessible [ici](https://github.com/scopyleft/multibao-contribution/graphs/contributors)
+
 ## Manuel du petit contributeur
 
 #### Édition en ligne
