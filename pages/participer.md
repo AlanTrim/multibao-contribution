@@ -8,9 +8,14 @@ Un seul pré-requis demandé: accepter de mettre à disposition ses ressources. 
 * sont proposés des ateliers d'1h que vous pouvez suivre par skype
 * vont être proposés un / des camp(s) pour propulser la multiBàO
 
-## Rédiger des fiches méthodes sur multiBàO.org. 
+## Rédiger des fiches méthodes qui apparaîtront sur multiBàO.org
 
-En attendant la publication de la document sur "comment faire", merci de rejoindre la [liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao ). Ces fiches peuvent être stockées sur multiBàO.org ou fonctionner grâce à un dépot distant (github, dropbox) que vous aurez choisi. 
+* En attendant la publication de la document sur "comment faire", merci de rejoindre la [liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
+* ou de contacter [Thomas](mailto:thomas.wolff@cpcoop.fr) avec qui tu pourras organiser une session skype pour qu'il te présente comment ça marche
+
+## Enrichir les fiches méthodes qui apparaissent déjà sur multiBàO.org
+
+idem que précédent
 
 ## Faire apparaître les fiches de multiBàO sur son site
 
