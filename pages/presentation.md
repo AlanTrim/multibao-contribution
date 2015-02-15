@@ -1,4 +1,30 @@
-# une multi boîte à outils 
+# une multi Boîte à Outils (multiBàO)
+
+bienvenue sur une multi Boîte à outils dédiée à l'organisation en collectif et la gestion de projet. Conçue sur mesure pour les animateurs de réseaux / groupes, avec des ressources sous licences [Creative Commons](http://creativecommons.fr/) que vous pourrez récupérer, enrichir, diffuser... Bonne utilisation!
+
+## Parceque ce n'est pas une boîte à outils ordinaire
+
+C'est une multi Boîte à Outils
+
+* vous pouvez faire apparaître les fiches de multiBàO sur votre site, avec la mise en page de votre site. Si un contributeur change la fiche sur multiBàO, la fiche change sur votre site
+* vous pouvez faire apparaître sur multiBàO des fiches de votre site, avec les possibilités qu'offre multiBàO. Si vous changez la fiche sur votre site, elle change sur multiBàO, ainsi que sur tous les sites connectés à multiBàO.
+
+### La petite histoire 
+
+50 animateurs de réseaux nous ont fait part de leur problèmes avec les boîtes à outils 
+ * les ressources (fiches outils / méthodes + retours d'expériences) sont éparpillés sur le web
+ * des sites webs, il y en a déja plein
+ * problème: il n'y a pas d'interconnexion des ressources. Par exemple: la fiche méthode sur le site Y n'est pas reliée au retour d'expérience sur cette méthode méthode, visible sur le site Z
+
+
+
+Plutôt que de créer un site web en plus, vous trouverez ici une "interconnexion de sites" : les données sont issues, partagées et connectées entre plusieurs sites. 
+
+* toutes les ressources sont réutilisables (c'est sous licences [Creative Commons](http://creativecommons.fr/)
+* possibilité d'interconnecter son site à la multiBàO: quand la fiche change sur multiBàO, la fiche change sur mon site (et je peux avoir ma propre mise en page)
+* possibilité d'interconnecter multiBàO à mon site: quand je change la fiche sur mon site, la fiche change sur multiBàO et sur les sites de tous ceux qui s'y sont interconnectés 
+* 
+
 
 bienvenue sur multi bào, une plateforme en construction vous permettant de trouver et de disposer de la bonne ressource pour coopérer. Ici, on essaye de ne pas "griller les étapes" et de faire "un minimum de bruit" sans "s'essoufler". Par exemple, on ne définit pas de solutions ("on pourrait faire ça"), sans avoir validé les "problèmes"/"besoins" en amont.
 
