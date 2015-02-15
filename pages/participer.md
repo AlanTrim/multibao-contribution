@@ -6,7 +6,7 @@ Un seul pré-requis demandé: accepter de mettre à disposition ses ressources. 
 
 * [liste de discussion des multiBàOteurs/euses: s'inscrire]([liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao ))
 * sont proposés des ateliers d'1h que vous pouvez suivre par skype
-* vont être proposé un / des camp(s) pour propulser la multiBàO
+* vont être proposés un / des camp(s) pour propulser la multiBàO
 
 ## Rédiger des fiches méthodes sur multiBàO.org. 
 
