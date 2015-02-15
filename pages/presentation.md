@@ -1,8 +1,8 @@
 # une multi Boîte à Outils (multiBàO)
 
-bienvenue sur une multi Boîte à outils dédiée à l'organisation en collectif et la gestion de projet. Conçue sur mesure pour les animateurs de réseaux / groupes, avec des ressources sous licences [Creative Commons](http://creativecommons.fr/) que vous pourrez récupérer, enrichir, diffuser... Bonne utilisation!
+bienvenue sur une multi Boîte à outils dédiée à l'organisation en collectif et la gestion de projet. Conçue sur mesure pour les animateurs de réseaux / groupes, vous trouverez ici des ressources que vous pourrez, récupérer, enrichir, connecter à vos sites, propager... Bonne utilisation!
 
-Moi c'est Thomas Wolff, j'assure la liaison entre l'équipe de développement et la communauté d'animateurs de réseaux qui utilisent les fiches. Plutôt que de vous raconter l'histoire de cette multi Boîte à outils je vous propose de la découvrir en quelques clics 
+Moi c'est Thomas Wolff, j'assure la liaison entre l'équipe de développement et la communauté d'animateurs de réseaux qui utilisent les fiches. Plutôt que de vous raconter l'histoire de cette multi Boîte à outils, je vous propose de la découvrir en quelques clics 
 
 ## les fiches outils/méthodes > présentées sur la partie droite du site
  * beaucoup de contributeurs différents : ces resources proviennent des "4 coins du web"
@@ -20,3 +20,8 @@ Moi c'est Thomas Wolff, j'assure la liaison entre l'équipe de développement et
 
 * vous pouvez vous inscrire sur la liste de discussion pour [se tenir informé ou participer aux ateliers](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
 * vous pouvez écrire un mail à [Thomas](mailto:thomas.wolff@cpcoop.fr) ou lui téléphoner (0642459781)
+
+## version actuelle de la multiBàO
+
+* la multiBàO est publiée sous sa version 0.2 
+* le code source de la plateforme, vous permettant de réutiliser cette technologie pour vous autres projets, est accessible [ici](https://github.com/scopyleft/multibao/tree/dev)
