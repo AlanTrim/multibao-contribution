@@ -2,7 +2,7 @@
 
 bienvenue sur une multi Boîte à outils dédiée à l'organisation en collectif et la gestion de projet. Conçue sur mesure pour les animateurs de réseaux / groupes, avec des ressources sous licences [Creative Commons](http://creativecommons.fr/) que vous pourrez récupérer, enrichir, diffuser... Bonne utilisation!
 
-Moi c'est Thomas (Wolff), plutôt que de vous raconter l'histoire de cette multi Boîte à outils je vous propose de la découvrir en quelques clics 
+Moi c'est Thomas Wolff, j'assure la liaison entre l'équipe de développement et la communauté d'animateurs de réseaux qui utilisent les fiches. Plutôt que de vous raconter l'histoire de cette multi Boîte à outils je vous propose de la découvrir en quelques clics 
 
 ## les fiches outils/méthodes > présentées sur la partie droite du site
  * beaucoup de contributeurs différents : ces resources proviennent des "4 coins du web"
