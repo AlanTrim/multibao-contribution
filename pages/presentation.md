@@ -7,6 +7,8 @@ Moi c'est Thomas Wolff, j'assure la liaison entre l'équipe de développement et
 ## les fiches outils/méthodes > présentées sur la partie droite du site
  * beaucoup de contributeurs différents : ces ressources proviennent des "4 coins du web"
  * les contributeurs qui ont publié sur multiBàO souhaitent que vous puissez réutiliser leurs fiches. Du coup, toutes les fiches sont publiées sous des licences [Creative Commons](http://creativecommons.fr/)
+ * une même fiche est souvent enrichie par plusieurs contributeurs différents
+ * vous aussi, vous pouvez contribuer
  * pour les curieux, nous avions déjà compilé [plus de 200 fiches autour des démarches participatives](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa), une des plus grosses boîte à outils de démarches participatives d'Europe.
 
 ## ça marche avec une technologie d'interconnexion: c'est une multi boîte à outils
