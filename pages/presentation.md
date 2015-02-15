@@ -5,9 +5,9 @@ bienvenue sur une multi Boîte à outils dédiée à l'organisation en collectif
 Moi c'est Thomas Wolff, j'assure la liaison entre l'équipe de développement et la communauté d'animateurs de réseaux qui utilisent les fiches. Plutôt que de vous raconter l'histoire de cette multi Boîte à outils, je vous propose de la découvrir en quelques clics 
 
 ## les fiches outils/méthodes > présentées sur la partie droite du site
- * beaucoup de contributeurs différents : ces resources proviennent des "4 coins du web"
- * des contributeurs souhaitant que vous puissiez réutiliser leurs données. Du coup, toutes les fiches sont publiées sous des licences [Creative Commons](http://creativecommons.fr/)
- * pour les curieux, nous avions commencé à compilé [plus de 200 fiches autour des démarches participatives](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa), une des plus grosses boîte à outils de démarches participatives d'Europe.
+ * beaucoup de contributeurs différents : ces ressources proviennent des "4 coins du web"
+ * les contributeurs qui ont publié sur multiBàO souhaitent que vous puissez réutiliser leurs fiches. Du coup, toutes les fiches sont publiées sous des licences [Creative Commons](http://creativecommons.fr/)
+ * pour les curieux, nous avions déjà compilé [plus de 200 fiches autour des démarches participatives](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa), une des plus grosses boîte à outils de démarches participatives d'Europe.
 
 ## ça marche avec une technologie d'interconnexion: c'est une multi boîte à outils
  * au premier abord, cette technologie n'est pas visible sur le site
