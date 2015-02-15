@@ -6,9 +6,7 @@
 
 ![Thomas Wolff](http://imaginationforpeople.org/site_media/mugshots/b252f6e006.jpg)
 
-* Contacter *Stéphane Langlois*, "responsable développement numérique" et "scrum master"
-
-* [stephane.langlois@scopyleft.fr](mailto:stephane.langlois@scopyleft.fr)
+* Contacter *Stéphane Langlois*, "responsable développement numérique" et "scrum master". [stephane.langlois@scopyleft.fr](mailto:stephane.langlois@scopyleft.fr)
 
 ![Stéphane Langlois](http://www.paris-web.fr/2012/assets_c/2012/09/stephane_Langlois_143-thumb-143x143-264.jpg)
 
