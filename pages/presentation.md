@@ -11,10 +11,10 @@ Moi c'est Thomas (Wolff), plutôt que de vous raconter l'histoire de cette multi
 
 ## ça marche avec une technologie d'interconnexion: c'est une multi boîte à outils
  * au premier abord, cette technologie n'est pas visible sur le site
- * pour faire simple
-  * la plus grosse partie des fiches est actuellement stockée sur multiBàO.org 
-  * il est possible de faire apparaître les fiches de multiBàO sur son site, tout en conservant la mise en page de son site. Si la fiche change sur multiBàO > la fiche change sur votre site. [Voici comment faire](https://github.com/scopyleft/multibao/tree/dev/public/integration).
-  * il est aussi possible de faire apparaître sur multiBàO les ressources de votre site. Si la fiche change sur votre site, elle changera aussi sur multiBàO. Les utilisateurs pourront alors interconnecter leurs sites avec la fiche apparaissant sur multiBàO. nous écrirons bientôt la documentation
+ * c'est participatif: vous aussi vous pouvez contribuer
+  * en rédigeant des fiches méthodes sur multiBàO.org. En attendant la publication de la document sur "comment faire", merci de rejoindre la [liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao ). Ces fiches peuvent être stockées sur multiBàO.org ou fonctionner grâce à un dépot distant (github, dropbox) que vous aurez choisi. 
+  * vous pouvez faire apparaître les fiches de multiBàO sur votre site, tout en conservant la mise en page de votre site. Si la fiche change sur multiBàO > la fiche change sur votre site. [Voici comment faire](https://github.com/scopyleft/multibao/tree/dev/public/integration).
+  * vous pouvez connectez votre site à multiBàO. Si la fiche change sur votre site, elle changera aussi sur multiBàO. Merci de prendre contact avec [Stéphane Langlois](mailto:stephane.langlois@scopyleft.fr) pour découvrir comment faire. Nécessite des connaissances en développement. Sinon, vous pouvez toujours re-rédiger des fiches sur multiBàO.org et connecter vos sites aux fiches. 
 
 ## pour rencontrer des multiBàOteurs/euses 
 
