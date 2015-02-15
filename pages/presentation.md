@@ -21,7 +21,7 @@ Moi c'est Thomas Wolff, j'assure la liaison entre l'équipe de développement et
 ## pour rencontrer des multiBàOteurs/euses 
 
 * vous pouvez vous inscrire sur la liste de discussion pour [se tenir informé ou participer aux ateliers](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
-* vous pouvez écrire un mail à [Thomas](mailto:thomas.wolff@cpcoop.fr) ou lui téléphoner (0642459781)
+* vous pouvez [m'écrire un mail](mailto:thomas.wolff@cpcoop.fr) ou me téléphoner (0642459781)
 
 ## version actuelle de la multiBàO
 
