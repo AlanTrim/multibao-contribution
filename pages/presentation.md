@@ -15,6 +15,7 @@ Moi c'est Thomas Wolff, j'assure la liaison entre l'équipe de développement et
  * au premier abord, cette technologie n'est pas visible sur le site
  * c'est participatif: vous aussi vous pouvez contribuer
   * en rédigeant des fiches méthodes sur multiBàO.org. En attendant la publication de la document sur "comment faire", merci de rejoindre la [liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao ). Ces fiches peuvent être stockées sur multiBàO.org ou fonctionner grâce à un dépot distant (github, dropbox) que vous aurez choisi. 
+  * en nous envoyant vos fiches en word, pdf, html... on les transformera
   * vous pouvez faire apparaître les fiches de multiBàO sur votre site, tout en conservant la mise en page de votre site. Si la fiche change sur multiBàO > la fiche change sur votre site. [Voici comment faire](https://github.com/scopyleft/multibao/tree/dev/public/integration).
   * vous pouvez connectez votre site à multiBàO. Si la fiche change sur votre site, elle changera aussi sur multiBàO. Merci de prendre contact avec [Stéphane Langlois](mailto:stephane.langlois@scopyleft.fr) pour découvrir comment faire. Nécessite des connaissances en développement. Sinon, vous pouvez toujours re-rédiger des fiches sur multiBàO.org et connecter vos sites aux fiches. 
 
