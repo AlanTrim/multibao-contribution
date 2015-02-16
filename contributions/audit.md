@@ -2,7 +2,7 @@
 
 # En une phrase  
 
-*L'audit est une méthode d'enquête axée sur les besoins et intérêts des acteurs; utilisé en concertation territoriale. 
+* L'audit est une méthode d'enquête axée sur les besoins et intérêts des acteurs; utilisé en concertation territoriale. 
 
 ![Audit](http://www.unebookpresqueparfait.fr/wp-content/uploads/2013/02/comment-ecrire-un-dialogue.jpg)
 
