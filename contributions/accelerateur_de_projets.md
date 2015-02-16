@@ -67,5 +67,5 @@ Pour assurer le succès d’une telle démarche, l'animateur rappelle les règle
 
 ## Sources
 
-* **(1)** Cours adapté de : Payette, A. et Champagne, C. Le groupe de codéveloppement professionnel, Sainte-Foy, Les Presses de l’Université du Québec,1997. Publié depuis [Moustic](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet) sous licence Creative Commons BY-SA
+* **(1)** Cours adapté de : Payette, A. et Champagne, C. *Le groupe de codéveloppement professionnel*, Sainte-Foy, Les Presses de l’Université du Québec,1997. Publié depuis [Moustic](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet) sous licence Creative Commons BY-SA
 * **(2)** [Lilian RICAUD](http://www.lilianricaud.com/travail-en-reseau/moustic-evenement-participatif-usages-sociaux-internet/accelerateur-de-projet-collaboratif/), distribué sous licence Creative Commons BY-SA
