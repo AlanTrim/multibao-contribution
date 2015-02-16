@@ -1,4 +1,4 @@
-# Forum ouvert
+## Forum ouvert
 
 ## En une phrase  
 
@@ -6,13 +6,13 @@ Le Forum ouvert est une structure de parole permettant à un nombre non limité 
 
 ![Forum ouvert](http://i0.wp.com/transitionculture.org/wp-content/uploads/totnesopenspace.jpg?resize=300%2C225)**(4)**
 
-## À quoi ça sert ?
+# À quoi ça sert ?
 
 * Reproduire les échanges informel d'une pause café
 * Permet la génération d'idées **(2)**
 * Favoriser une véritable émulation **(3)**
 
-## Informations pratiques
+# Informations pratiques
 
 * **Nombre de participants**  10 personnes et +
 * **Durée préparation** très variable
