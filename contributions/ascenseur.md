@@ -1,10 +1,10 @@
 # Technique de l'Ascenseur 
 
-## A quoi ça sert ? 
+### A quoi ça sert ? 
 * explorer de manière conviviale une question **(1)**
 * rebondir sur un thème (ex: expert) **(1)**
 * ice-breaker : favorise le rapprochement **(2)**
-* favorise une écoute accrue **(2)**
+ favorise une écoute accrue **(2)**
 
 ![Com](http://photos-e.ak.instagram.com/hphotos-ak-xpf1/10802711_402298783260556_765599718_n.jpg) 
 
