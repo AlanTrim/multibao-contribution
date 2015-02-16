@@ -4,12 +4,12 @@
 Un atelier de rue est une façon d'échanger autour d'un thème, avec les habitants, passants ou usagers du lieu dans lequel il s'installe.
 
 
-### A quoi ça sert* ?
+## A quoi ça sert ?
 
 * pour les organisateurs: recueillir des témoignages afin d'enrichir une réflexion citoyenne.
 * pour les participants: se questionner et s'exprimer librement sur un sujet (auquel ils ne sont pas forcément sensibilisé), rencontrer de nouvelles personnes dans son quartier
 
-## *Présentation 
+## Présentation 
 
 L'équipe de l'atelier de rue va à la rencontre des gens et les invite à discuter autour du thème du jour (inscrit en grand). Les notes prises durant la discussion sont ensuite synthétisées en une phrase avec la personne interrogée et accrochées sous la grande question afin qu'elles soient ainsi visibles par tous et puissent faire émerger et enrichir la réflexion de chacun. 
 
