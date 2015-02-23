@@ -7,8 +7,8 @@ Pour créer un nouveau fichier, il vous suffit de cliquer sur le signe **"+"** s
 
 Vous êtes maintenant sur l'endroit du site où vous pourrez coder votre fiche. Le codage se fait en code de type MarkDown (l'explication se fera brièvement ci dessous).
 Pour introduire le titre de votre fiche, il faut l'écrire dans le cadre blanc situé à droite de *"multibao-contribution/contributions/"* sous le format suivant. 
-"Titre_de_ma_fiche.md", dans un cas pratique, le titre de cette fiche est "Création_d'une_fiche_Mulibao.md". 
-Le ".md" indique le type de codage qui sera utilisé, il est primordial de ne pas l'oublier. 
+"titre_de_ma_fiche.md", dans un cas pratique, le titre de cette fiche est "creation_d'une_fiche_multibao.md". 
+Le ".md" indique le type de codage qui sera utilisé, il est primordial de ne pas l'oublier. Les majuscules, les signes "é", "è", "ç" et "à" ne doivent âs être présent dans le cadre du titre sinon la fiche ne s'affichera pas sur multibao.org.
 
 Pour finaliser la fiche que vous avez rédigé, indiqué à la fin de votre fiche les mentions suivantes : Compilé par votre nom et votre prénom. Pour la mettre directement sur le site mutlibao.org, descendez en bas de la page et appuyer sur le bouton vert (situé en bas à gauche) *"Commit changes"*, vous pouvez indiquer dans les deux cadres au dessus de ce bouton des précisions sur les modifications que vous avez apporté dans le documents.
 
