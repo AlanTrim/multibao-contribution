@@ -10,3 +10,5 @@ Dans une initiative de transition, des citoyens se mettent à travailler ensembl
 **Et la Transition en Belgique?**
 
 Le mouvement de Transition s’est bien installé en Belgique. Il y a des initiatives à Bruxelles, en Flandre et en Wallonie. Sur ce site, vous trouverez plus d’informations sur les initiatives qui s’auto-organisent autour du modèle de la transition à Bruxelles et en Wallonie. Pour plus d’information sur les initiatives en Flandres, rendez vous sur le site de [Transitie Vlaanderen](http://www.transitie.be/r/default.aspx).
+
+Fiche compilée par François Wuidard
