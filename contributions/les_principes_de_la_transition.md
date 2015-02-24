@@ -8,6 +8,8 @@ Comme tout le reste, ils ne sont pas coulés dans le béton, et si le monde de l
 
 ##1. Vision positive
 
+![Transitionnetworklogo](http://www.reseautransition.be/wp-content/uploads/2013/02/Transition-Network-logo51.jpg)
+
 Pour créer, nous devons d’abord avoir une vision :
 
   * Si nous ne pouvons pas imaginer un avenir positif, nous ne serons pas en mesure de le créer.
