@@ -66,7 +66,7 @@ Je participe à l'Atelier d'entraide affective (en m'assurant du moment et du li
 
 ## Expérience
 
-![collectivedechalvagne](http://www.culture.gouv.fr/culture/sites-sdaps/sdap04/imgsites/val2chcassien.jpg)
+![collectivedechalvagne](http://img4.hostingpics.net/pics/531082LesgouttesdOpasselerelaislaCollectivedeChal.jpg)
 
 Informations sur la Collective de Chalvagne:
 
