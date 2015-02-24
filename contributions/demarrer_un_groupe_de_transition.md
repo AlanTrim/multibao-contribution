@@ -25,3 +25,5 @@ Schématiquement, lancer une initiative de transition peut se découper en trois
 – Armez-vous de confiance, d’ouverture et de compréhension, soyez apte à la remise en question (demandez-vous ce qui n’a pas fonctionné avant de considérer que les “autres” ne comprennent rien), n’ayez pas peur de remettre l’ouvrage sur le métier. Rappelez-vous que tout le monde est invité et que “les personnes qui viennent sont les bonnes personnes”, comme le dit Rob Hopkins. Tous les points de vue sont valables, il ne s’agit pas de convaincre les autres d’une vérité, mais de créer une dynamique dans l’ensemble de la population.
 
 – Expérimentez. Vous trouverez certainement des choses que nous n’avons pas trouvées.
+
+Fiche compilée par François Wuidard
