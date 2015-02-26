@@ -30,10 +30,22 @@ Pour la mettre directement sur le site mutlibao.org, descendez en bas de la page
 
 ## Le codage Mardown : 
 
+![markdown](https://cdn.tutsplus.com/net/uploads/legacy/2063_markdown/preview.png)
+
 La section qui va suive est bien entendu non exhaustive, le but est de poser les bases du codage Markdown en bref. 
 ![codagemarkdownenbref](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/11006058_10205970112069175_47007984_n.jpg?oh=aee8c7b5f4dc07d039d2f293ade28cc0&oe=54EE4965&__gda__=1424839925_21f5eb90021622959e36a41fe8f678d8)
 
 pour des infos complémentaires sur le codage Markdown vous pouvez vous rendre sur le lien du site [openclassroom](http://openclassrooms.com/courses/redigez-en-markdown)
+
+### Un document pour faire les liens entre code html et markdown
+
+![html markdown](http://designshack.net/wp-content/uploads/markdown-11.jpg)
+
+### En anglais
+
+![markdown language](http://themespectre.com/wp-content/uploads/2013/08/ThemeSpectre_Markdown_CheatSheet.jpg)
+
+
 
 Vous pouvez également vous entrainer au codage Markdown sur le site suivant [StackEdit](https://stackedit.io/editor)
 
