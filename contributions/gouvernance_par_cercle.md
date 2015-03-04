@@ -94,7 +94,7 @@ Chaque Cercle poursuit un but clairement identifié (la mission du Rôle) et org
 
 ##4.1. Exemple d'une structure organisationnelle en Cercle
 
-image à insérer
+[exempledestructureparcercle](https://lh3.googleusercontent.com/wyIp-Uv8jzbF1YeZsKYzX6SPdBAChJHASTs9YMDuIQ=w276-h207-p-no)
 
 ##4.2. Définition du Cercle
 
