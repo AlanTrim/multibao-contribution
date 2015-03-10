@@ -74,5 +74,5 @@ Arnaud Milet (compilation)  **[2](#note)**
 ## Sources
 <a id="note">
 * **1** Agriculture Biologique & Développement Local : une boîte à outils pour les collectivités territoriales, [www.devlocalbio.org](http://www.devlocalbio.org/fiches-actions/7-vente-directe-et-circuits-de-proximite-en-bio/)
-* **2** Arnaud MILET,  [D-SIDD](http://www.d-sidd.com)
+* **2** [D-SIDD](http://www.d-sidd.com), Aide à la communication et à la décision citoyenne
 </a>
