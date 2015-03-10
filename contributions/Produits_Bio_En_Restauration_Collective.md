@@ -66,13 +66,11 @@ Si la communication sur l'action réalisée permet de valoriser le travail de to
 * Modifier les pratiques en cuisine et élaborer des menus équilibrés (moindre utilisation de plats préparés industriels, intégration de plats alternatifs privilégiant les protéines végétales, cuisson basse température, etc.) ;
 * Favoriser les produits de saison et recourir à des fournisseurs locaux (agriculteurs ou groupements d'agriculteurs), limitant le nombre d'intermédiaires.
 
-## Compilation, traduction et présentation
-Arnaud Milet (compilation)  **[4](#note)**
 
 ## Sources
 <a id="note">
 * **1** Agriculture Biologique & Développement Local : une boîte à outils pour les collectivités territoriales, [www.devlocalbio.org](http://www.devlocalbio.org/fiches-actions/8-des-produits-bio-locaux-en-restauration-collective/)
 * **2** [Ministère de l'agriculture, de l'agroalimentaire et de la foret](http://alimentation.gouv.fr/)
 * **3** [Annuaire sur www.repasbio.org](http://www.repasbio.org/annuaire-des-plateformes-de-producteurs-bio).
-* **4** Arnaud MILET,  [D-SIDD](http://www.d-sidd.com)
+* Fiche compilée par [D-SIDD](http://www.d-sidd.com)
 </a>
