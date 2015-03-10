@@ -66,7 +66,7 @@ Je participe à l'Atelier d'entraide affective (en m'assurant du moment et du li
 
 ## Expérience
 
-![collectivedechalvagne](http://img4.hostingpics.net/pics/531082LesgouttesdOpasselerelaislaCollectivedeChal.jpg)
+![collectivedechalvagne](http://chalvagne.lesgouttesdo.net/wp-content/uploads/2014/02/cropped-Montage-en-tete.jpg)
 
 Informations sur la Collective de Chalvagne:
 
