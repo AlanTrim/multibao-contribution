@@ -68,11 +68,8 @@ Aussi la collectivité peut-elle lancer des campagnes de communication en mobili
 * **Penser la mise en œuvre et la promotion :** un nouveau circuit de commercialisation a besoin de trouver sa clientèle. Le projet doit donc réfléchir aux moyens qui seront mis en œuvre pour ce faire : utilisation des outils de communication de la collectivité, valorisation des réseaux de producteurs, voire création d'outils de communication spécifiques (flyers, guides, répertoires, achat d'espaces publicitaires...).
 * **Anticiper les coûts cachés  :** que ce soit pour de l'investissement (travaux de mise aux normes d'un local) ou pour du fonctionnement (études de préfiguration, actions de communication), les besoins financiers doivent être anticipés.
 
-## Compilation, traduction et présentation
-Arnaud Milet (compilation)  **[2](#note)**
-
 ## Sources
 <a id="note">
 * **1** Agriculture Biologique & Développement Local : une boîte à outils pour les collectivités territoriales, [www.devlocalbio.org](http://www.devlocalbio.org/fiches-actions/7-vente-directe-et-circuits-de-proximite-en-bio/)
-* **2** [D-SIDD](http://www.d-sidd.com), Aide à la communication et à la décision citoyenne
+* Fiche compilée par [D-SIDD](http://www.d-sidd.com)
 </a>
