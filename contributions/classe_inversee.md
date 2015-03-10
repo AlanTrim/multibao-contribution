@@ -62,13 +62,11 @@ Ils se retrouvent tous en cours pour partager leurs recherches et débattre des 
 
 Les premières expériences ont été réalisées à l'Université Harvard aux États-Unis dans les années 1990, par le professeur de physique Eric Mazur. (1)
 
- 
 
 Le lycée polyvalent Jules Guesde à Montpellier a expérimenté l’application nomade « WapEduc » qui permet aux élèves de réviser leurs cours sur leur téléphone portable. Cette méthode pédagogique s’appelle le « mobile learning », proche du modèle de la classe inversée et des MOOCs. Elle permet aux élèves et aux enseignants d’améliorer leur relation pédagogique. L’élève se connecte à l’application : il peut consulter et réviser ses cours, être en relation avec son enseignant, s’exercer sur des tests (notes sur 20) et recevoir un compte-rendu mensuel de sa progression. (3)
 
  
-
-L’académie de Montpellier accompagne l’accès à des ressources pédagogiques en ligne via l’ENT académique (Espace Numérique de Travail). Ainsi l’ENT 2nd degré offre la possibilité à tous les élèves d’accéder notamment à un livret de ressources TICE (LRTice) leur permettant un travail en autonomie en classe et hors la classe.
+L’académie de Montpellier accompagne l’accès à des ressources pédagogiques en ligne via l’ENT académique (Espace Numérique de Travail). Ainsi l’ENT 2nd degré offre la possibilité à tous les enseignants d’accéder notamment au LRTICE, une mutualisation d'exemples de classes inversées à destination des professeurs. Les élèves sont destinataires des capsules vidéos ou autres documents à étudier au préalable via leur compte ENT et un livret de ressources leur permettant un travail en autonomie en classe et hors la classe.
 
 Ces ressources élaborées pour la plate-forme pédagogique moodle permettent à tout enseignant de disposer de supports pédagogiques numériques et d’être sensibilisé aux fonctionnalités de cette plate-forme. (2)
 
