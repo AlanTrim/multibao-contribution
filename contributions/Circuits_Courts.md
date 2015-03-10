@@ -7,8 +7,6 @@ Les consommateurs sont de plus en plus demandeurs de produits locaux ou en circu
  Mais il est pertinent de regarder plus en détails ces modes de commercialisation et consommation pour en mesurer l'impact territorial. Ce n'est pas tant le nombre d'intermédiaires qui est important que le fonctionnement de ces intermédiaires : s'inscrivent-ils dans l'économie sociale et solidaire ? Les producteurs gardent-ils la maîtrise de l'outil, des prix ? Pour la notion de proximité, il convient de regarder la filière dans son ensemble (production, transformation et distribution) : par exemple, un jus de pommes acheté à l'épicerie du village n'est pas forcément local...
 De plus, s'ils sont produits selon le cahier des charges de l'agriculture biologique (AB), les produits locaux contribuent au respect de l'environnement, du bien-être animal et de la santé des hommes, producteurs ou consommateurs. Cette double ambition du bio local permet donc de répondre de manière cohérente aux multiples enjeux du développement durable des territoires.**[1](#note)**
 
-![Marché bio](http://upload.wikimedia.org/wikipedia/commons/c/cd/March%C3%A9_biologique_des_Batignolles,_Paris_1_February_2014_002.jpg)**[2](#note)**
-
 ##Un atout pour les collectivités
 Vente directe (à la ferme, sur les marchés, en point de vente collectif, via des paniers de légumes, etc.) ou avec un intermédiaire (épiceries locales, restauration collective, etc.)  : de nombreuses collectivités locales soutiennent le développement des circuits courts de proximité en bio pour dynamiser l'économie locale en relocalisant les filières, pour faciliter l'accès des consommateurs à une alimentation de qualité mais aussi pour soutenir le développement d'une agriculture bio locale et donc ... contribuer à préserver la qualité de l'eau.
 
@@ -71,11 +69,10 @@ Aussi la collectivité peut-elle lancer des campagnes de communication en mobili
 * **Anticiper les coûts cachés  :** que ce soit pour de l'investissement (travaux de mise aux normes d'un local) ou pour du fonctionnement (études de préfiguration, actions de communication), les besoins financiers doivent être anticipés.
 
 ## Compilation, traduction et présentation
-Arnaud Milet (compilation)  **[3](#note)**
+Arnaud Milet (compilation)  **[2](#note)**
 
 ## Sources
 <a id="note">
 * **1** Agriculture Biologique & Développement Local : une boîte à outils pour les collectivités territoriales, [www.devlocalbio.org](http://www.devlocalbio.org/fiches-actions/7-vente-directe-et-circuits-de-proximite-en-bio/)
-* **2** [Sam Nabi](http://samnabi.com/), sous licence Creative Commons BY-SA
-* **3** Arnaud MILET,  [D-SIDD](http://www.d-sidd.com)
+* **2** Arnaud MILET,  [D-SIDD](http://www.d-sidd.com)
 </a>
