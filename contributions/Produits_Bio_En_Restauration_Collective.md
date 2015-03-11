@@ -1,12 +1,12 @@
 #Des produits biologiques locaux en restauration collective
 
-**Fiche réalisée par www.devlocalbio.org** **[1](#note)**
+**Fiche réalisée par la Fédération Nationale d'Agriculture Biologique (FNAB)** **[1](#note)** **[2](#note)**
 
 ##Une dynamique locale profitable à toute la collectivité
 Le Grenelle de l'Environnement a fixé, en 2007, l'objectif de 20 % de produits biologiques en restauration collective. Cet objectif a été repris dans la circulaire "État exemplaire" de 2008. N'étant pas encore atteint en 2013, il a été réaffirmé par le ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt, dans le Plan Ambition Bio 2017.
 Représentant près d'un repas sur dix en France, la restauration collective peut en effet constituer un important débouché pour la production biologique. Par ailleurs, elle est un support permettant d'initier une dynamique locale, au-delà des surfaces agricoles concernées par l'approvisionnement de la restauration collective (structuration des filières, sensibilisation des citoyens, etc.). De plus en plus de collectivités font le choix de proposer des produits bio dans leurs restaurants  : en 2012, 56 % des établissements de restauration déclaraient proposer des produits bio à leurs convives, contre 4 % en 2006 (source : observatoire des produits bio en restauration collective de l'Agence Bio).**[1](#note)** 
 
-![Restauration collective](http://alimentation.gouv.fr/local/cache-vignettes/L455xH303/resto_collective-33f19.jpg)**[2](#note)**
+![Restauration collective](http://alimentation.gouv.fr/local/cache-vignettes/L455xH303/resto_collective-33f19.jpg)**[3](#note)**
 
 ##Des bénéfices multiples pour le territoire
 **L'introduction de produits bio locaux en restauration collective constitue un projet d'intérêt général et transversal par excellence**, qui contribue à :
@@ -37,7 +37,7 @@ méthodologie) : comités de pilotage, commissions menus, etc.
 La participation de tous les acteurs concernés (élus, gestionnaires, cuisiniers, chefs d'établissement, enseignants, infirmières, périscolaire, convives, parents d'élèves, agriculteurs biologiques, structure de développement de l'agriculture biologique, etc.) est un gage d'appropriation du projet par tous.
 
 ###2 - Connaître la filière biologique locale :
-Recenser le nombre d'agriculteurs, les structures d'approvisionnement en produits bio, capacité d'approvisionnement, capacité de transformation, etc. Des "plates-formes" de producteurs bio spécialisées dans la restauration collective ont été mises en place et se développent dans la plupart des régions de France **[3](#note)**.
+Recenser le nombre d'agriculteurs, les structures d'approvisionnement en produits bio, capacité d'approvisionnement, capacité de transformation, etc. Des "plates-formes" de producteurs bio spécialisées dans la restauration collective ont été mises en place et se développent dans la plupart des régions de France **[4](#note)**.
 
 ###3 - Évaluer les besoins et les capacités de l'établissement :
 Planifier les besoins à moyen terme, évaluer la capacité de la légumerie, etc.
@@ -72,7 +72,8 @@ Si la communication sur l'action réalisée permet de valoriser le travail de to
 ## Sources
 <a id="note">
 * **1** Agriculture Biologique & Développement Local : une boîte à outils pour les collectivités territoriales, [www.devlocalbio.org](http://www.devlocalbio.org/fiches-actions/8-des-produits-bio-locaux-en-restauration-collective/)
-* **2** [Ministère de l'agriculture, de l'agroalimentaire et de la foret](http://alimentation.gouv.fr/)
-* **3** [Annuaire sur www.repasbio.org](http://www.repasbio.org/annuaire-des-plateformes-de-producteurs-bio).
+* **2** Fédération nationale d'Agriculture Biologique, [FNAB](http://www.fnab.org)
+* **3** [Ministère de l'agriculture, de l'agroalimentaire et de la foret](http://alimentation.gouv.fr/)
+* **4** [Annuaire sur www.repasbio.org](http://www.repasbio.org/annuaire-des-plateformes-de-producteurs-bio).
 * Fiche compilée par [D-SIDD](http://www.d-sidd.com)
 </a>
