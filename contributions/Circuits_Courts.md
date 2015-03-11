@@ -1,6 +1,6 @@
 #Développer la vente directe et les circuits de proximité en biodiversité
 
-**Fiche réalisée par www.devlocalbio.org** **[1](#note)**
+**Fiche réalisée par la Fédération nationale d'Agriculture Biologique (FNAB)** **[1](#note)** **[2](#note)**
 
 
 ##Des valeurs au service du territoire
@@ -74,5 +74,6 @@ Aussi la collectivité peut-elle lancer des campagnes de communication en mobili
 ## Sources
 <a id="note">
 * **1** Agriculture Biologique & Développement Local : une boîte à outils pour les collectivités territoriales, [www.devlocalbio.org](http://www.devlocalbio.org/fiches-actions/7-vente-directe-et-circuits-de-proximite-en-bio/)
+* **2** Fédération nationale d'Agriculture Biologique, [FNAB](http://www.fnab.org)
 * Fiche compilée par [D-SIDD](http://www.d-sidd.com)
 </a>
