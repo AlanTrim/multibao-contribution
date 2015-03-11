@@ -1,5 +1,7 @@
 #Des produits biologiques locaux en restauration collective
 
+**Fiche réalisée par www.devlocalbio.org** **[1](#note)**
+
 ##Une dynamique locale profitable à toute la collectivité
 Le Grenelle de l'Environnement a fixé, en 2007, l'objectif de 20 % de produits biologiques en restauration collective. Cet objectif a été repris dans la circulaire "État exemplaire" de 2008. N'étant pas encore atteint en 2013, il a été réaffirmé par le ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt, dans le Plan Ambition Bio 2017.
 Représentant près d'un repas sur dix en France, la restauration collective peut en effet constituer un important débouché pour la production biologique. Par ailleurs, elle est un support permettant d'initier une dynamique locale, au-delà des surfaces agricoles concernées par l'approvisionnement de la restauration collective (structuration des filières, sensibilisation des citoyens, etc.). De plus en plus de collectivités font le choix de proposer des produits bio dans leurs restaurants  : en 2012, 56 % des établissements de restauration déclaraient proposer des produits bio à leurs convives, contre 4 % en 2006 (source : observatoire des produits bio en restauration collective de l'Agence Bio).**[1](#note)** 
