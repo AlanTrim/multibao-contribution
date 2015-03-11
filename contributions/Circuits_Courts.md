@@ -1,5 +1,8 @@
 #Développer la vente directe et les circuits de proximité en biodiversité
 
+**Fiche réalisée par www.devlocalbio.org** **[1](#note)**
+
+
 ##Des valeurs au service du territoire
 Vente directe et circuits courts de proximité en agriculture biologique
 Circuits courts, local, proximité... Ces notions méritent d'être précisées,notamment auprès des consommateurs. Les circuits courts concernent le nombre d'intermédiaires entre le producteur et le consommateur (zéro ou un), tandis que le local ou la proximité concernent la distance géographique entre lieux de production et de consommation.
