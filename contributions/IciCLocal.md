@@ -14,9 +14,11 @@ Trois couleurs d'étiquettes permettent ainsi aux consommateurs de déterminer r
 ![Étiquette Verte](https://inra-dam-front-resources-cdn.brainsonic.com/ressources/afile/271154-abe71-picture_client_format_0-ardoise-producteur.html )**[1](#note)**
 
 * Orange pour les produits pour lesquels le vendeur les a acheté directement aux producteurs dans la région ou un département limitrophe, et dont il peut se porter garant.
+
 ![Étiquette orange](https://inra-dam-front-resources-cdn.brainsonic.com/ressources/afile/271150-912df-picture_client_format_0-ardoise-intermediaire.html)**[1](#note)**
 
 * Violet pour les autres produits.
+
 ![Étiquette violette](https://inra-dam-front-resources-cdn.brainsonic.com/ressources/afile/271152-d0d48-picture_client_format_0-ardoise-hors-cc.html)**[1](#note)**
 
 Ce système d'étiquetage permet aux consommateurs de suivre les engagements des exposants: il suppose que les exposants soient transparents par rapport à l’origine de leurs produits. 
@@ -35,6 +37,7 @@ Pour répondre aux attentes des consommateurs et des commerçants, l’Inra et l
 
 ##Méthodologie
 L’intérêt suscité par l’expérimentation et la nécessité d’un test dans d’autres lieux ont encouragé l’Inra et Grabels à protéger la démarche en 2014 sous la dénomination Ici.C.Local : Innovation pour la coopération et l’information en circuit local. **Gratuite, Ici.C.Local est utilisable par tout producteur ou commerçant** impliqué dans les circuits courts et l’agriculture durable tout en valorisant la complémentarité entre circuits et entre agricultures. Compatible et complémentaire avec les marques existantes, son originalité est d’inscrire les entreprises licenciées dans une démarche territoriale participative. 
+
 ![Ici.C.Local](https://inra-dam-front-resources-cdn.brainsonic.com/ressources/afile/270247-b7597-picture_client_format_0-ici-c-local.html)**[1](#note)**
 
 
