@@ -1,6 +1,6 @@
 ##Les excercices énergisants : 
 
-La liste d'excercices qui suit est une liste de différents excercices énergisants à utiliser lors de réunion/animation/formation. Elle est bien entendu non exhaustive et peut être mis à jour par l'ajout d'excercice énergisant complémentaire à tout moments. 
+La liste d'excercices qui suit est une liste de différents excercices énergisants à utiliser lors de réunion/animation/formation. Elle est ,bien entendu, non exhaustive et peut être mis à jour par l'ajout d'excercices énergisants complémentaires à tout moments. 
 
 Ces excercices sont à utiliser quand les participants ont un "coup de mou", pour dynamiser les activités, ou encore simplement aider les participants à se réveiller en bougeant en début de journée. 
 
@@ -32,7 +32,7 @@ Une part fait 3-4 minute (mais cela peut être beaucoup plus longs si les partic
 Cet exercice nous a été transmis par Fabian Féraux de la société « Les petits Mondes » et formateur, entre autres, en permaculture et en Holacratie : http://www.petitsmondes.be/
 
 
-## La zap : 
+## Le clap ou zap : 
 
 * **Catégories** :
 
@@ -44,26 +44,28 @@ Cet exercice nous a été transmis par Fabian Féraux de la société « Les pet
 
 * **Timing** :
 
-Une part doit durer au minimum 5 minutes, ensuite vous pouvez faire durer l'excercice plus longtemps si vous sentez que les participants ont encore besoin de bouger un moment. 
+Une part doit durer au minimum 5 minutes, vous pouvez faire durer l'excercice plus longtemps si vous sentez que les participants ont encore besoin de bouger un moment. 
 
 * **Déroulement** : 
 
 1) Former un cercle avec les participants, tout le monde doit être debout
 
-2) le but de jeu est de se passer le "zap" le plus longtemps possible sans faire d'erreur. Pour passer le "zap", regarder votre voisin de gauche, de droite ou un autre membre du cercle dans les yeux, puis claquer dans vos mains dans sa direction en criant énergiquement "zap". 
-Une fois qu'un participant a reçu le zap, il doit le renvoyer le plus vite possible à un autre participants. 
+2) le but de jeu est de se passer le "zap/clap" le plus longtemps possible sans faire d'erreur. Pour passer le "zap/clap", regardez votre voisin de gauche, de droite ou un autre membre du cercle dans les yeux, puis claquez dans vos mains dans sa direction en criant énergiquement "zap/clap". 
+Une fois qu'un participant a reçu le zap/clap, il doit le renvoyer le plus vite possible à un autre participants. 
 
 3) désigner la personne qui commencera, et suiver les échanges pour vérifier que le "zap" ne se perds pas. Une fois que le groupe gère bien l'excercice avec un "zap", vous pouvez en rajouter un deuxième. 
 
 * **Précaution** : 
 
-Cet excercice existe sous d'autres nom en théatre et dans les jeux de mouvements de jeunesses, certaines règlent complémentaire y sont généralement ajoutées par ces groupes. Avant d'ajouter une règle complémantaire, assurez vous bien que celle-ci soit comprise par tout les participants (les différences pouvant être nombreuses). 
+Cet excercice existe sous d'autres nom en théatre et dans les jeux des mouvements de jeunesses, certaines règles complémentaires y sont généralement ajoutées par ces groupes. Avant d'ajouter une règle complémantaire, assurez vous bien que celle-ci soit comprise par tous les participants (les différences pouvant être nombreuses). 
 
-Exemple de règle complémentaire : *"Celui qui aura le "zap" a maintenant la possibilité de dire le mot "Bombe", quand le mot "Bombe" sera prononcer, tous les particpants devront courrir dans le centre du cercle en criant avant d'aller se replacer dans le cercle à un endroit différents de celui où il étaient"*
+Exemple de règle complémentaire : *"Celui qui aura le "zap/clap" a maintenant la possibilité de dire le mot "Bombe", quand le mot "Bombe" sera prononcer, tous les particpants devront courrir dans le centre du cercle en criant avant d'aller se replacer dans le cercle à un endroit différents de celui où il étaient"*
 
 ##La Salade de Fruits : 
 
 Pour dynamiser une réunion/formation et empêcher que les gens ne s'assoupissent, on peut demander, qu'après une pause lors de la reprise, les personnes présentes changent de place entre eux (de préférence pour aller vers une place à laquelle ils n'ont pas encore été assis). 
+
+Avant le changement de place, il faut également préciser aux participants qu'ils changeront de perspectives de vue dans le groupe. La salade de fruit peut être aussi principalement utilisée à cet effet. 
 
 Fiche compilée par François Wuidard. 
 
