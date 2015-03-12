@@ -10,6 +10,7 @@ Mise en place d'un système d’étiquetage de l’origine des produits alimenta
 Trois couleurs d'étiquettes permettent ainsi aux consommateurs de déterminer rapidement l'origine géographique et sociale des produits présents sur le marché :
 
 * Vert pour les produits pour lesquels le vendeur est le producteur. 
+
 ![Étiquette Verte](https://inra-dam-front-resources-cdn.brainsonic.com/ressources/afile/271154-abe71-picture_client_format_0-ardoise-producteur.html )**[1](#note)**
 
 * Orange pour les produits pour lesquels le vendeur les a acheté directement aux producteurs dans la région ou un département limitrophe, et dont il peut se porter garant.
