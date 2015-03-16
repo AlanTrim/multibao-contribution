@@ -2,9 +2,9 @@
 
 Schématiquement, lancer une initiative de transition peut se découper en trois phases :
 
-    * Préparation, à l’issue ou pendant laquelle se créer le groupe de départ ;
-    * Sensibilisation, à l’issue de laquelle le groupe de départ se dissout pour laisser place à un groupe de pilotage plus large et plus représentatif de la population ;
-    * Action.
+* Préparation, à l’issue ou pendant laquelle se créer le groupe de départ ;
+* Sensibilisation, à l’issue de laquelle le groupe de départ se dissout pour laisser place à un groupe de pilotage plus large et plus représentatif de la population ;
+* Action.
 
 **Et quelques conseils**
 
