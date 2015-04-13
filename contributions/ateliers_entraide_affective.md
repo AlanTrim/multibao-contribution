@@ -97,5 +97,7 @@ Alan TRIM - Université Montpellier 3 - Centre des Pratiques de la Coopération
 
 ## Sources
 
+http://www.lesgouttesdo.marsnet.org/forum/viewtopic.php?f=370&t=2053#p12768
+
 https://dub131.mail.live.com/mail/ViewOfficePreview.aspx?messageid=mg8rK6xeax5BGraAAjfeP05g2&folderid=flinbox&attindex=0&cp=-1&attdepth=0&n=93495355 - Licence Creative Commons : Attribution : Pas D'utilisation Commerciale
 
